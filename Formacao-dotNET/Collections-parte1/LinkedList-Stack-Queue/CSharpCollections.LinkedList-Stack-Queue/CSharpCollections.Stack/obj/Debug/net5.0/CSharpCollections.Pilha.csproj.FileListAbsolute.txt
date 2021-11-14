@@ -1,0 +1,15 @@
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\LinkedList-Stack-Queue\CSharpCollections.LinkedList-Stack-Queue\CSharpCollections.Stack\bin\Debug\net5.0\CSharpCollections.Pilha.exe
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\LinkedList-Stack-Queue\CSharpCollections.LinkedList-Stack-Queue\CSharpCollections.Stack\bin\Debug\net5.0\CSharpCollections.Pilha.deps.json
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\LinkedList-Stack-Queue\CSharpCollections.LinkedList-Stack-Queue\CSharpCollections.Stack\bin\Debug\net5.0\CSharpCollections.Pilha.runtimeconfig.json
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\LinkedList-Stack-Queue\CSharpCollections.LinkedList-Stack-Queue\CSharpCollections.Stack\bin\Debug\net5.0\CSharpCollections.Pilha.runtimeconfig.dev.json
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\LinkedList-Stack-Queue\CSharpCollections.LinkedList-Stack-Queue\CSharpCollections.Stack\bin\Debug\net5.0\CSharpCollections.Pilha.dll
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\LinkedList-Stack-Queue\CSharpCollections.LinkedList-Stack-Queue\CSharpCollections.Stack\bin\Debug\net5.0\ref\CSharpCollections.Pilha.dll
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\LinkedList-Stack-Queue\CSharpCollections.LinkedList-Stack-Queue\CSharpCollections.Stack\bin\Debug\net5.0\CSharpCollections.Pilha.pdb
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\LinkedList-Stack-Queue\CSharpCollections.LinkedList-Stack-Queue\CSharpCollections.Stack\obj\Debug\net5.0\CSharpCollections.Pilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\LinkedList-Stack-Queue\CSharpCollections.LinkedList-Stack-Queue\CSharpCollections.Stack\obj\Debug\net5.0\CSharpCollections.Pilha.AssemblyInfoInputs.cache
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\LinkedList-Stack-Queue\CSharpCollections.LinkedList-Stack-Queue\CSharpCollections.Stack\obj\Debug\net5.0\CSharpCollections.Pilha.AssemblyInfo.cs
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\LinkedList-Stack-Queue\CSharpCollections.LinkedList-Stack-Queue\CSharpCollections.Stack\obj\Debug\net5.0\CSharpCollections.Pilha.csproj.CoreCompileInputs.cache
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\LinkedList-Stack-Queue\CSharpCollections.LinkedList-Stack-Queue\CSharpCollections.Stack\obj\Debug\net5.0\CSharpCollections.Pilha.dll
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\LinkedList-Stack-Queue\CSharpCollections.LinkedList-Stack-Queue\CSharpCollections.Stack\obj\Debug\net5.0\ref\CSharpCollections.Pilha.dll
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\LinkedList-Stack-Queue\CSharpCollections.LinkedList-Stack-Queue\CSharpCollections.Stack\obj\Debug\net5.0\CSharpCollections.Pilha.pdb
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\LinkedList-Stack-Queue\CSharpCollections.LinkedList-Stack-Queue\CSharpCollections.Stack\obj\Debug\net5.0\CSharpCollections.Pilha.genruntimeconfig.cache

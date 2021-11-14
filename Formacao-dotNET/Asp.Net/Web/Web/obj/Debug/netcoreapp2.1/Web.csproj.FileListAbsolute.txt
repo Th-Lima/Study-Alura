@@ -1,0 +1,17 @@
+C:\Study\Alura\Formacao-dotNET\Asp.Net\CasaDoCodigo\CasaDoCodigo\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Study\Alura\Formacao-dotNET\Asp.Net\CasaDoCodigo\CasaDoCodigo\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Study\Alura\Formacao-dotNET\Asp.Net\CasaDoCodigo\CasaDoCodigo\bin\Debug\netcoreapp2.1\Web.deps.json
+C:\Study\Alura\Formacao-dotNET\Asp.Net\CasaDoCodigo\CasaDoCodigo\bin\Debug\netcoreapp2.1\Web.runtimeconfig.json
+C:\Study\Alura\Formacao-dotNET\Asp.Net\CasaDoCodigo\CasaDoCodigo\bin\Debug\netcoreapp2.1\Web.runtimeconfig.dev.json
+C:\Study\Alura\Formacao-dotNET\Asp.Net\CasaDoCodigo\CasaDoCodigo\bin\Debug\netcoreapp2.1\Web.dll
+C:\Study\Alura\Formacao-dotNET\Asp.Net\CasaDoCodigo\CasaDoCodigo\bin\Debug\netcoreapp2.1\Web.pdb
+C:\Study\Alura\Formacao-dotNET\Asp.Net\CasaDoCodigo\CasaDoCodigo\obj\Debug\netcoreapp2.1\Web.csprojAssemblyReference.cache
+C:\Study\Alura\Formacao-dotNET\Asp.Net\CasaDoCodigo\CasaDoCodigo\obj\Debug\netcoreapp2.1\Web.AssemblyInfoInputs.cache
+C:\Study\Alura\Formacao-dotNET\Asp.Net\CasaDoCodigo\CasaDoCodigo\obj\Debug\netcoreapp2.1\Web.AssemblyInfo.cs
+C:\Study\Alura\Formacao-dotNET\Asp.Net\CasaDoCodigo\CasaDoCodigo\obj\Debug\netcoreapp2.1\Web.csproj.CoreCompileInputs.cache
+C:\Study\Alura\Formacao-dotNET\Asp.Net\CasaDoCodigo\CasaDoCodigo\obj\Debug\netcoreapp2.1\Web.RazorAssemblyInfo.cache
+C:\Study\Alura\Formacao-dotNET\Asp.Net\CasaDoCodigo\CasaDoCodigo\obj\Debug\netcoreapp2.1\Web.RazorAssemblyInfo.cs
+C:\Study\Alura\Formacao-dotNET\Asp.Net\CasaDoCodigo\CasaDoCodigo\obj\Debug\netcoreapp2.1\Web.RazorTargetAssemblyInfo.cache
+C:\Study\Alura\Formacao-dotNET\Asp.Net\CasaDoCodigo\CasaDoCodigo\obj\Debug\netcoreapp2.1\Web.dll
+C:\Study\Alura\Formacao-dotNET\Asp.Net\CasaDoCodigo\CasaDoCodigo\obj\Debug\netcoreapp2.1\Web.pdb
+C:\Study\Alura\Formacao-dotNET\Asp.Net\CasaDoCodigo\CasaDoCodigo\obj\Debug\netcoreapp2.1\Web.genruntimeconfig.cache

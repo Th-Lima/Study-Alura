@@ -1,0 +1,17 @@
+=============================================
+No. Pedido: 00008
+Cliente: 
+    Nome: Alice smith
+    Endereco: Teste0002 Fundos Teste bairro São Paulo SP
+    Fone: 1234-5678
+    Email: alice@smith.com
+    Total: R$ 149,70
+Itens:
+
+    Código: 181
+    Preco Unitário: R$ 49,90
+    Descrição: Agile: Desenvolvimento de software com entregas frequentes e foco no valor de negócio
+    Quantidade: 003
+    Subtotal: R$ 149,70
+=============================================
+

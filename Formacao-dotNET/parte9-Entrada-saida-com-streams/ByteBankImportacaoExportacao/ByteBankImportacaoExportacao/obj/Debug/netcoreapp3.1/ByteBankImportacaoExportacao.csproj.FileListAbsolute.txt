@@ -1,0 +1,13 @@
+C:\Study\Alura\Formacao-dotNET\parte9-Entrada-saida-com-streams\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\bin\Debug\netcoreapp3.1\ByteBankImportacaoExportacao.exe
+C:\Study\Alura\Formacao-dotNET\parte9-Entrada-saida-com-streams\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\bin\Debug\netcoreapp3.1\ByteBankImportacaoExportacao.deps.json
+C:\Study\Alura\Formacao-dotNET\parte9-Entrada-saida-com-streams\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\bin\Debug\netcoreapp3.1\ByteBankImportacaoExportacao.runtimeconfig.json
+C:\Study\Alura\Formacao-dotNET\parte9-Entrada-saida-com-streams\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\bin\Debug\netcoreapp3.1\ByteBankImportacaoExportacao.runtimeconfig.dev.json
+C:\Study\Alura\Formacao-dotNET\parte9-Entrada-saida-com-streams\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\bin\Debug\netcoreapp3.1\ByteBankImportacaoExportacao.dll
+C:\Study\Alura\Formacao-dotNET\parte9-Entrada-saida-com-streams\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\bin\Debug\netcoreapp3.1\ByteBankImportacaoExportacao.pdb
+C:\Study\Alura\Formacao-dotNET\parte9-Entrada-saida-com-streams\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\obj\Debug\netcoreapp3.1\ByteBankImportacaoExportacao.csprojAssemblyReference.cache
+C:\Study\Alura\Formacao-dotNET\parte9-Entrada-saida-com-streams\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\obj\Debug\netcoreapp3.1\ByteBankImportacaoExportacao.AssemblyInfoInputs.cache
+C:\Study\Alura\Formacao-dotNET\parte9-Entrada-saida-com-streams\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\obj\Debug\netcoreapp3.1\ByteBankImportacaoExportacao.AssemblyInfo.cs
+C:\Study\Alura\Formacao-dotNET\parte9-Entrada-saida-com-streams\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\obj\Debug\netcoreapp3.1\ByteBankImportacaoExportacao.csproj.CoreCompileInputs.cache
+C:\Study\Alura\Formacao-dotNET\parte9-Entrada-saida-com-streams\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\obj\Debug\netcoreapp3.1\ByteBankImportacaoExportacao.dll
+C:\Study\Alura\Formacao-dotNET\parte9-Entrada-saida-com-streams\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\obj\Debug\netcoreapp3.1\ByteBankImportacaoExportacao.pdb
+C:\Study\Alura\Formacao-dotNET\parte9-Entrada-saida-com-streams\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\obj\Debug\netcoreapp3.1\ByteBankImportacaoExportacao.genruntimeconfig.cache

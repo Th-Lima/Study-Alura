@@ -1,0 +1,14 @@
+C:\Study\Alura\Formacao-dotNET\Asp.Net\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Repositorio\livros.csv
+C:\Study\Alura\Formacao-dotNET\Asp.Net\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Views\Cadastro\Formulario.cshtml
+C:\Study\Alura\Formacao-dotNET\Asp.Net\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.deps.json
+C:\Study\Alura\Formacao-dotNET\Asp.Net\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.runtimeconfig.json
+C:\Study\Alura\Formacao-dotNET\Asp.Net\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.runtimeconfig.dev.json
+C:\Study\Alura\Formacao-dotNET\Asp.Net\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.dll
+C:\Study\Alura\Formacao-dotNET\Asp.Net\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.pdb
+C:\Study\Alura\Formacao-dotNET\Asp.Net\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.AssemblyInfoInputs.cache
+C:\Study\Alura\Formacao-dotNET\Asp.Net\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.AssemblyInfo.cs
+C:\Study\Alura\Formacao-dotNET\Asp.Net\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.csproj.CoreCompileInputs.cache
+C:\Study\Alura\Formacao-dotNET\Asp.Net\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.dll
+C:\Study\Alura\Formacao-dotNET\Asp.Net\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.pdb
+C:\Study\Alura\Formacao-dotNET\Asp.Net\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.genruntimeconfig.cache
+C:\Study\Alura\Formacao-dotNET\Asp.Net\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Views\Livros\ListaLivros.cshtml

@@ -1,0 +1,11 @@
+C:\Users\U6104902.TEN\Documents\Alura\Formacao-dotNET\parte2-POO\ByteBank\04-ByteBank\bin\Debug\netcoreapp3.1\04-ByteBank.exe
+C:\Users\U6104902.TEN\Documents\Alura\Formacao-dotNET\parte2-POO\ByteBank\04-ByteBank\bin\Debug\netcoreapp3.1\04-ByteBank.deps.json
+C:\Users\U6104902.TEN\Documents\Alura\Formacao-dotNET\parte2-POO\ByteBank\04-ByteBank\bin\Debug\netcoreapp3.1\04-ByteBank.runtimeconfig.json
+C:\Users\U6104902.TEN\Documents\Alura\Formacao-dotNET\parte2-POO\ByteBank\04-ByteBank\bin\Debug\netcoreapp3.1\04-ByteBank.runtimeconfig.dev.json
+C:\Users\U6104902.TEN\Documents\Alura\Formacao-dotNET\parte2-POO\ByteBank\04-ByteBank\bin\Debug\netcoreapp3.1\04-ByteBank.dll
+C:\Users\U6104902.TEN\Documents\Alura\Formacao-dotNET\parte2-POO\ByteBank\04-ByteBank\bin\Debug\netcoreapp3.1\04-ByteBank.pdb
+C:\Users\U6104902.TEN\Documents\Alura\Formacao-dotNET\parte2-POO\ByteBank\04-ByteBank\obj\Debug\netcoreapp3.1\04-ByteBank.csprojAssemblyReference.cache
+C:\Users\U6104902.TEN\Documents\Alura\Formacao-dotNET\parte2-POO\ByteBank\04-ByteBank\obj\Debug\netcoreapp3.1\04-ByteBank.AssemblyInfoInputs.cache
+C:\Users\U6104902.TEN\Documents\Alura\Formacao-dotNET\parte2-POO\ByteBank\04-ByteBank\obj\Debug\netcoreapp3.1\04-ByteBank.AssemblyInfo.cs
+C:\Users\U6104902.TEN\Documents\Alura\Formacao-dotNET\parte2-POO\ByteBank\04-ByteBank\obj\Debug\netcoreapp3.1\04-ByteBank.dll
+C:\Users\U6104902.TEN\Documents\Alura\Formacao-dotNET\parte2-POO\ByteBank\04-ByteBank\obj\Debug\netcoreapp3.1\04-ByteBank.pdb

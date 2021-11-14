@@ -1,0 +1,14 @@
+C:\Study\Alura\Formacao-dotNET\parte6-Strings-expressoesregulares-object\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.xml
+C:\Study\Alura\Formacao-dotNET\parte6-Strings-expressoesregulares-object\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
+C:\Study\Alura\Formacao-dotNET\parte6-Strings-expressoesregulares-object\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
+C:\Study\Alura\Formacao-dotNET\parte6-Strings-expressoesregulares-object\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csprojAssemblyReference.cache
+C:\Study\Alura\Formacao-dotNET\parte6-Strings-expressoesregulares-object\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+C:\Study\Alura\Formacao-dotNET\parte6-Strings-expressoesregulares-object\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
+C:\Study\Alura\Formacao-dotNET\parte6-Strings-expressoesregulares-object\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb
+C:\Study\Alura\Formacao-dotNET\parte7-Array-e-tipos-genericos\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.xml
+C:\Study\Alura\Formacao-dotNET\parte7-Array-e-tipos-genericos\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
+C:\Study\Alura\Formacao-dotNET\parte7-Array-e-tipos-genericos\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
+C:\Study\Alura\Formacao-dotNET\parte7-Array-e-tipos-genericos\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csprojAssemblyReference.cache
+C:\Study\Alura\Formacao-dotNET\parte7-Array-e-tipos-genericos\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+C:\Study\Alura\Formacao-dotNET\parte7-Array-e-tipos-genericos\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
+C:\Study\Alura\Formacao-dotNET\parte7-Array-e-tipos-genericos\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb

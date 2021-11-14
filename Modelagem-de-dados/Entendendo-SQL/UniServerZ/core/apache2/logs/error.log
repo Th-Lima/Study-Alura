@@ -1,0 +1,5 @@
+[Thu Apr 30 18:54:47.032155 2020] [mpm_winnt:notice] [pid 8368:tid 328] AH00455: Apache/2.4.43 (Win32) PHP/7.4.5 configured -- resuming normal operations
+[Thu Apr 30 18:54:47.032155 2020] [mpm_winnt:notice] [pid 8368:tid 328] AH00456: Apache Lounge VC15 Server built: Apr  1 2020 11:02:44
+[Thu Apr 30 18:54:47.032155 2020] [core:notice] [pid 8368:tid 328] AH00094: Command line: 'D:\\Personal\\UniformServer\\Test\\UniServerZ\\core\\apache2\\bin\\httpd_z.exe -d D:/Personal/UniformServer/Test/UniServerZ/core/apache2 -f D:\\Personal\\UniformServer\\Test\\UniServerZ\\core\\apache2\\conf\\httpd.conf -d D:\\Personal\\UniformServer\\Test\\UniServerZ\\core\\apache2'
+[Thu Apr 30 18:54:47.048155 2020] [mpm_winnt:notice] [pid 8368:tid 328] AH00418: Parent: Created child process 11176
+[Thu Apr 30 18:54:50.112158 2020] [mpm_winnt:notice] [pid 11176:tid 528] AH00354: Child: Starting 150 worker threads.

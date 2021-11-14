@@ -1,0 +1,17 @@
+C:\Study\Alura\Formacao-dotNET\ASP.NET_Identity\CasaDoCodigo\CasaDoCodigo.RelatorioWebAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Study\Alura\Formacao-dotNET\ASP.NET_Identity\CasaDoCodigo\CasaDoCodigo.RelatorioWebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Study\Alura\Formacao-dotNET\ASP.NET_Identity\CasaDoCodigo\CasaDoCodigo.RelatorioWebAPI\bin\Debug\netcoreapp2.2\CasaDoCodigo.RelatorioWebAPI.deps.json
+C:\Study\Alura\Formacao-dotNET\ASP.NET_Identity\CasaDoCodigo\CasaDoCodigo.RelatorioWebAPI\bin\Debug\netcoreapp2.2\CasaDoCodigo.RelatorioWebAPI.runtimeconfig.json
+C:\Study\Alura\Formacao-dotNET\ASP.NET_Identity\CasaDoCodigo\CasaDoCodigo.RelatorioWebAPI\bin\Debug\netcoreapp2.2\CasaDoCodigo.RelatorioWebAPI.runtimeconfig.dev.json
+C:\Study\Alura\Formacao-dotNET\ASP.NET_Identity\CasaDoCodigo\CasaDoCodigo.RelatorioWebAPI\bin\Debug\netcoreapp2.2\CasaDoCodigo.RelatorioWebAPI.dll
+C:\Study\Alura\Formacao-dotNET\ASP.NET_Identity\CasaDoCodigo\CasaDoCodigo.RelatorioWebAPI\bin\Debug\netcoreapp2.2\CasaDoCodigo.RelatorioWebAPI.pdb
+C:\Study\Alura\Formacao-dotNET\ASP.NET_Identity\CasaDoCodigo\CasaDoCodigo.RelatorioWebAPI\obj\Debug\netcoreapp2.2\CasaDoCodigo.RelatorioWebAPI.AssemblyInfoInputs.cache
+C:\Study\Alura\Formacao-dotNET\ASP.NET_Identity\CasaDoCodigo\CasaDoCodigo.RelatorioWebAPI\obj\Debug\netcoreapp2.2\CasaDoCodigo.RelatorioWebAPI.AssemblyInfo.cs
+C:\Study\Alura\Formacao-dotNET\ASP.NET_Identity\CasaDoCodigo\CasaDoCodigo.RelatorioWebAPI\obj\Debug\netcoreapp2.2\CasaDoCodigo.RelatorioWebAPI.csproj.CoreCompileInputs.cache
+C:\Study\Alura\Formacao-dotNET\ASP.NET_Identity\CasaDoCodigo\CasaDoCodigo.RelatorioWebAPI\obj\Debug\netcoreapp2.2\CasaDoCodigo.RelatorioWebAPI.RazorAssemblyInfo.cache
+C:\Study\Alura\Formacao-dotNET\ASP.NET_Identity\CasaDoCodigo\CasaDoCodigo.RelatorioWebAPI\obj\Debug\netcoreapp2.2\CasaDoCodigo.RelatorioWebAPI.RazorAssemblyInfo.cs
+C:\Study\Alura\Formacao-dotNET\ASP.NET_Identity\CasaDoCodigo\CasaDoCodigo.RelatorioWebAPI\obj\Debug\netcoreapp2.2\CasaDoCodigo.RelatorioWebAPI.RazorTargetAssemblyInfo.cache
+C:\Study\Alura\Formacao-dotNET\ASP.NET_Identity\CasaDoCodigo\CasaDoCodigo.RelatorioWebAPI\obj\Debug\netcoreapp2.2\CasaDoCodigo.RelatorioWebAPI.dll
+C:\Study\Alura\Formacao-dotNET\ASP.NET_Identity\CasaDoCodigo\CasaDoCodigo.RelatorioWebAPI\obj\Debug\netcoreapp2.2\CasaDoCodigo.RelatorioWebAPI.pdb
+C:\Study\Alura\Formacao-dotNET\ASP.NET_Identity\CasaDoCodigo\CasaDoCodigo.RelatorioWebAPI\obj\Debug\netcoreapp2.2\CasaDoCodigo.RelatorioWebAPI.genruntimeconfig.cache
+C:\Study\Alura\Formacao-dotNET\ASP.NET_Identity\CasaDoCodigo\CasaDoCodigo.RelatorioWebAPI\obj\Debug\netcoreapp2.2\CasaDoCodigo.RelatorioWebAPI.csprojAssemblyReference.cache

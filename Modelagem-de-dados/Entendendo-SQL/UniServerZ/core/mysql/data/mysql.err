@@ -1,0 +1,78 @@
+2021-07-07T17:42:20.623142Z 0 [System] [MY-010116] [Server] C:\Study\Alura\Modelagem-de-dados\Entendendo-SQL\UniServerZ\core\mysql\bin\mysqld_z.exe (mysqld 8.0.18) starting as process 2400
+2021-07-07T17:42:20.625814Z 0 [Warning] [MY-013242] [Server] --character-set-server: 'utf8' is currently an alias for the character set UTF8MB3, but will be an alias for UTF8MB4 in a future release. Please consider using UTF8MB4 in order to be unambiguous.
+2021-07-07T17:42:22.130619Z 0 [ERROR] [MY-011947] [InnoDB] Cannot open 'C:\Study\Alura\Modelagem-de-dados\Entendendo-SQL\UniServerZ\core\mysql\data\ib_buffer_pool' for reading: No such file or directory
+2021-07-07T17:42:22.207623Z 0 [Warning] [MY-010075] [Server] No existing UUID has been found, so we assume that this is the first time that this server has been started. Generating a new UUID: af087b7a-df4a-11eb-9b61-e454e894a762.
+2021-07-07T17:42:22.551532Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-07-07T17:42:22.674821Z 0 [System] [MY-010931] [Server] C:\Study\Alura\Modelagem-de-dados\Entendendo-SQL\UniServerZ\core\mysql\bin\mysqld_z.exe: ready for connections. Version: '8.0.18'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-07-07T17:42:22.840696Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-07-07T17:42:40.415874Z 0 [System] [MY-010116] [Server] C:\Study\Alura\Modelagem-de-dados\Entendendo-SQL\UniServerZ\core\mysql\bin\mysqld_z.exe (mysqld 8.0.18) starting as process 10832
+2021-07-07T17:42:40.419898Z 0 [Warning] [MY-013242] [Server] --character-set-server: 'utf8' is currently an alias for the character set UTF8MB3, but will be an alias for UTF8MB4 in a future release. Please consider using UTF8MB4 in order to be unambiguous.
+2021-07-07T17:42:41.551087Z 0 [System] [MY-010229] [Server] Starting crash recovery...
+2021-07-07T17:42:41.559416Z 0 [System] [MY-010232] [Server] Crash recovery finished.
+2021-07-07T17:42:41.572695Z 0 [ERROR] [MY-011947] [InnoDB] Cannot open 'C:\Study\Alura\Modelagem-de-dados\Entendendo-SQL\UniServerZ\core\mysql\data\ib_buffer_pool' for reading: No such file or directory
+2021-07-07T17:42:41.671741Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-07-07T17:42:41.731365Z 0 [System] [MY-010931] [Server] C:\Study\Alura\Modelagem-de-dados\Entendendo-SQL\UniServerZ\core\mysql\bin\mysqld_z.exe: ready for connections. Version: '8.0.18'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-07-07T17:42:41.737148Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-07-07T17:44:51.218319Z 8 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.18).
+2021-07-07T17:44:51.220985Z 0 [System] [MY-013105] [Server] C:\Study\Alura\Modelagem-de-dados\Entendendo-SQL\UniServerZ\core\mysql\bin\mysqld_z.exe: Normal shutdown.
+2021-07-07T17:44:52.016906Z 0 [System] [MY-010910] [Server] C:\Study\Alura\Modelagem-de-dados\Entendendo-SQL\UniServerZ\core\mysql\bin\mysqld_z.exe: Shutdown complete (mysqld 8.0.18)  MySQL Community Server - GPL.
+2021-07-07T17:46:21.861480Z 0 [System] [MY-010116] [Server] C:\Study\Alura\Modelagem-de-dados\Entendendo-SQL\UniServerZ\core\mysql\bin\mysqld_z.exe (mysqld 8.0.18) starting as process 14288
+2021-07-07T17:46:21.864115Z 0 [Warning] [MY-013242] [Server] --character-set-server: 'utf8' is currently an alias for the character set UTF8MB3, but will be an alias for UTF8MB4 in a future release. Please consider using UTF8MB4 in order to be unambiguous.
+2021-07-07T17:46:22.895330Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-07-07T17:46:22.976337Z 0 [System] [MY-010931] [Server] C:\Study\Alura\Modelagem-de-dados\Entendendo-SQL\UniServerZ\core\mysql\bin\mysqld_z.exe: ready for connections. Version: '8.0.18'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-07-07T17:46:23.205077Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-07-07T17:46:27.313186Z 0 [System] [MY-010116] [Server] C:\Study\Alura\Modelagem-de-dados\Entendendo-SQL\UniServerZ\core\mysql\bin\mysqld_z.exe (mysqld 8.0.18) starting as process 17208
+2021-07-07T17:46:27.315491Z 0 [Warning] [MY-013242] [Server] --character-set-server: 'utf8' is currently an alias for the character set UTF8MB3, but will be an alias for UTF8MB4 in a future release. Please consider using UTF8MB4 in order to be unambiguous.
+2021-07-07T17:46:28.844309Z 0 [System] [MY-010229] [Server] Starting crash recovery...
+2021-07-07T17:46:28.848863Z 0 [System] [MY-010232] [Server] Crash recovery finished.
+2021-07-07T17:46:28.963778Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-07-07T17:46:29.025283Z 0 [System] [MY-010931] [Server] C:\Study\Alura\Modelagem-de-dados\Entendendo-SQL\UniServerZ\core\mysql\bin\mysqld_z.exe: ready for connections. Version: '8.0.18'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-07-07T17:46:29.279756Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-07-07T21:03:37.086886Z 13 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.18).
+2021-07-07T21:03:37.088780Z 0 [System] [MY-013105] [Server] C:\Study\Alura\Modelagem-de-dados\Entendendo-SQL\UniServerZ\core\mysql\bin\mysqld_z.exe: Normal shutdown.
+2021-07-07T21:03:37.732483Z 0 [System] [MY-010910] [Server] C:\Study\Alura\Modelagem-de-dados\Entendendo-SQL\UniServerZ\core\mysql\bin\mysqld_z.exe: Shutdown complete (mysqld 8.0.18)  MySQL Community Server - GPL.
+2021-07-16T22:08:21.361286Z 0 [System] [MY-010116] [Server] C:\Study\Alura\Modelagem-de-dados\Entendendo-SQL\UniServerZ\core\mysql\bin\mysqld_z.exe (mysqld 8.0.18) starting as process 1244
+2021-07-16T22:08:21.374090Z 0 [Warning] [MY-013242] [Server] --character-set-server: 'utf8' is currently an alias for the character set UTF8MB3, but will be an alias for UTF8MB4 in a future release. Please consider using UTF8MB4 in order to be unambiguous.
+2021-07-16T22:08:22.640699Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-07-16T22:08:22.720008Z 0 [System] [MY-010931] [Server] C:\Study\Alura\Modelagem-de-dados\Entendendo-SQL\UniServerZ\core\mysql\bin\mysqld_z.exe: ready for connections. Version: '8.0.18'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-07-16T22:08:22.911396Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-07-16T22:08:31.221784Z 0 [System] [MY-010116] [Server] C:\Study\Alura\Modelagem-de-dados\Entendendo-SQL\UniServerZ\core\mysql\bin\mysqld_z.exe (mysqld 8.0.18) starting as process 15672
+2021-07-16T22:08:31.224072Z 0 [Warning] [MY-013242] [Server] --character-set-server: 'utf8' is currently an alias for the character set UTF8MB3, but will be an alias for UTF8MB4 in a future release. Please consider using UTF8MB4 in order to be unambiguous.
+2021-07-16T22:08:32.985336Z 0 [System] [MY-010229] [Server] Starting crash recovery...
+2021-07-16T22:08:32.989464Z 0 [System] [MY-010232] [Server] Crash recovery finished.
+2021-07-16T22:08:33.127162Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-07-16T22:08:33.186722Z 0 [System] [MY-010931] [Server] C:\Study\Alura\Modelagem-de-dados\Entendendo-SQL\UniServerZ\core\mysql\bin\mysqld_z.exe: ready for connections. Version: '8.0.18'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-07-16T22:08:33.398208Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-07-16T22:55:40.433004Z 14 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.18).
+2021-07-16T22:55:40.434422Z 0 [System] [MY-013105] [Server] C:\Study\Alura\Modelagem-de-dados\Entendendo-SQL\UniServerZ\core\mysql\bin\mysqld_z.exe: Normal shutdown.
+2021-07-16T22:55:41.368457Z 0 [System] [MY-010910] [Server] C:\Study\Alura\Modelagem-de-dados\Entendendo-SQL\UniServerZ\core\mysql\bin\mysqld_z.exe: Shutdown complete (mysqld 8.0.18)  MySQL Community Server - GPL.
+2021-07-23T21:22:38.316007Z 0 [System] [MY-010116] [Server] C:\Study\Alura\Modelagem-de-dados\Entendendo-SQL\UniServerZ\core\mysql\bin\mysqld_z.exe (mysqld 8.0.18) starting as process 16320
+2021-07-23T21:22:38.328447Z 0 [Warning] [MY-013242] [Server] --character-set-server: 'utf8' is currently an alias for the character set UTF8MB3, but will be an alias for UTF8MB4 in a future release. Please consider using UTF8MB4 in order to be unambiguous.
+2021-07-23T21:22:39.596203Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-07-23T21:22:39.695077Z 0 [System] [MY-010931] [Server] C:\Study\Alura\Modelagem-de-dados\Entendendo-SQL\UniServerZ\core\mysql\bin\mysqld_z.exe: ready for connections. Version: '8.0.18'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-07-23T21:22:39.922054Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-07-23T21:22:45.231917Z 0 [System] [MY-010116] [Server] C:\Study\Alura\Modelagem-de-dados\Entendendo-SQL\UniServerZ\core\mysql\bin\mysqld_z.exe (mysqld 8.0.18) starting as process 15828
+2021-07-23T21:22:45.234161Z 0 [Warning] [MY-013242] [Server] --character-set-server: 'utf8' is currently an alias for the character set UTF8MB3, but will be an alias for UTF8MB4 in a future release. Please consider using UTF8MB4 in order to be unambiguous.
+2021-07-23T21:22:46.916788Z 0 [System] [MY-010229] [Server] Starting crash recovery...
+2021-07-23T21:22:46.921505Z 0 [System] [MY-010232] [Server] Crash recovery finished.
+2021-07-23T21:22:47.050321Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-07-23T21:22:47.109092Z 0 [System] [MY-010931] [Server] C:\Study\Alura\Modelagem-de-dados\Entendendo-SQL\UniServerZ\core\mysql\bin\mysqld_z.exe: ready for connections. Version: '8.0.18'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-07-23T21:22:47.113913Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-07-23T23:39:22.305169Z 10 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.18).
+2021-07-23T23:39:22.309090Z 0 [System] [MY-013105] [Server] C:\Study\Alura\Modelagem-de-dados\Entendendo-SQL\UniServerZ\core\mysql\bin\mysqld_z.exe: Normal shutdown.
+2021-07-23T23:39:23.036586Z 0 [System] [MY-010910] [Server] C:\Study\Alura\Modelagem-de-dados\Entendendo-SQL\UniServerZ\core\mysql\bin\mysqld_z.exe: Shutdown complete (mysqld 8.0.18)  MySQL Community Server - GPL.
+2021-07-26T16:55:47.385907Z 0 [System] [MY-010116] [Server] C:\Study\Alura\Modelagem-de-dados\Entendendo-SQL\UniServerZ\core\mysql\bin\mysqld_z.exe (mysqld 8.0.18) starting as process 18436
+2021-07-26T16:55:47.397705Z 0 [Warning] [MY-013242] [Server] --character-set-server: 'utf8' is currently an alias for the character set UTF8MB3, but will be an alias for UTF8MB4 in a future release. Please consider using UTF8MB4 in order to be unambiguous.
+2021-07-26T16:55:48.562277Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-07-26T16:55:48.646910Z 0 [System] [MY-010931] [Server] C:\Study\Alura\Modelagem-de-dados\Entendendo-SQL\UniServerZ\core\mysql\bin\mysqld_z.exe: ready for connections. Version: '8.0.18'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-07-26T16:55:48.869711Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-07-26T16:55:55.916171Z 0 [System] [MY-010116] [Server] C:\Study\Alura\Modelagem-de-dados\Entendendo-SQL\UniServerZ\core\mysql\bin\mysqld_z.exe (mysqld 8.0.18) starting as process 4300
+2021-07-26T16:55:55.919048Z 0 [Warning] [MY-013242] [Server] --character-set-server: 'utf8' is currently an alias for the character set UTF8MB3, but will be an alias for UTF8MB4 in a future release. Please consider using UTF8MB4 in order to be unambiguous.
+2021-07-26T16:55:57.671632Z 0 [System] [MY-010229] [Server] Starting crash recovery...
+2021-07-26T16:55:57.676434Z 0 [System] [MY-010232] [Server] Crash recovery finished.
+2021-07-26T16:55:57.843405Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-07-26T16:55:57.909397Z 0 [System] [MY-010931] [Server] C:\Study\Alura\Modelagem-de-dados\Entendendo-SQL\UniServerZ\core\mysql\bin\mysqld_z.exe: ready for connections. Version: '8.0.18'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-07-26T16:55:58.120952Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-07-26T18:00:51.627657Z 10 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.18).
+2021-07-26T18:00:51.628459Z 0 [System] [MY-013105] [Server] C:\Study\Alura\Modelagem-de-dados\Entendendo-SQL\UniServerZ\core\mysql\bin\mysqld_z.exe: Normal shutdown.
+2021-07-26T18:00:52.163302Z 0 [System] [MY-010910] [Server] C:\Study\Alura\Modelagem-de-dados\Entendendo-SQL\UniServerZ\core\mysql\bin\mysqld_z.exe: Shutdown complete (mysqld 8.0.18)  MySQL Community Server - GPL.

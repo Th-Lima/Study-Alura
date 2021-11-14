@@ -1,0 +1,5 @@
+FUNC_DEP5 = σ Numero_Departamento == 5 (funcionario)
+RESULTADO1 = π Cpf (FUNC_DEP5)
+RESULTADO2 = π Cpf_Supervisor (FUNC_DEP5)
+RESULTADO2 = ρ Cpf_Supervisor ➡ Cpf (RESULTADO2)
+RESULTADO = RESULTADO1 ∪ RESULTADO2

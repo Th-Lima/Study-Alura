@@ -1,0 +1,16 @@
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Listas\CSharpCollections.Listas\CSharpCollections.Listas.ReadOnly\bin\Debug\net5.0\CSharpCollections.Listas.ReadOnly.exe
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Listas\CSharpCollections.Listas\CSharpCollections.Listas.ReadOnly\bin\Debug\net5.0\CSharpCollections.Listas.ReadOnly.deps.json
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Listas\CSharpCollections.Listas\CSharpCollections.Listas.ReadOnly\bin\Debug\net5.0\CSharpCollections.Listas.ReadOnly.runtimeconfig.json
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Listas\CSharpCollections.Listas\CSharpCollections.Listas.ReadOnly\bin\Debug\net5.0\CSharpCollections.Listas.ReadOnly.runtimeconfig.dev.json
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Listas\CSharpCollections.Listas\CSharpCollections.Listas.ReadOnly\bin\Debug\net5.0\CSharpCollections.Listas.ReadOnly.dll
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Listas\CSharpCollections.Listas\CSharpCollections.Listas.ReadOnly\bin\Debug\net5.0\ref\CSharpCollections.Listas.ReadOnly.dll
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Listas\CSharpCollections.Listas\CSharpCollections.Listas.ReadOnly\bin\Debug\net5.0\CSharpCollections.Listas.ReadOnly.pdb
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Listas\CSharpCollections.Listas\CSharpCollections.Listas.ReadOnly\obj\Debug\net5.0\CSharpCollections.Listas.ReadOnly.csproj.AssemblyReference.cache
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Listas\CSharpCollections.Listas\CSharpCollections.Listas.ReadOnly\obj\Debug\net5.0\CSharpCollections.Listas.ReadOnly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Listas\CSharpCollections.Listas\CSharpCollections.Listas.ReadOnly\obj\Debug\net5.0\CSharpCollections.Listas.ReadOnly.AssemblyInfoInputs.cache
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Listas\CSharpCollections.Listas\CSharpCollections.Listas.ReadOnly\obj\Debug\net5.0\CSharpCollections.Listas.ReadOnly.AssemblyInfo.cs
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Listas\CSharpCollections.Listas\CSharpCollections.Listas.ReadOnly\obj\Debug\net5.0\CSharpCollections.Listas.ReadOnly.csproj.CoreCompileInputs.cache
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Listas\CSharpCollections.Listas\CSharpCollections.Listas.ReadOnly\obj\Debug\net5.0\CSharpCollections.Listas.ReadOnly.dll
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Listas\CSharpCollections.Listas\CSharpCollections.Listas.ReadOnly\obj\Debug\net5.0\ref\CSharpCollections.Listas.ReadOnly.dll
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Listas\CSharpCollections.Listas\CSharpCollections.Listas.ReadOnly\obj\Debug\net5.0\CSharpCollections.Listas.ReadOnly.pdb
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Listas\CSharpCollections.Listas\CSharpCollections.Listas.ReadOnly\obj\Debug\net5.0\CSharpCollections.Listas.ReadOnly.genruntimeconfig.cache

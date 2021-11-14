@@ -1,0 +1,16 @@
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Arrays\CSharpCollections.Array\CSharpCollections.Array\bin\Debug\net5.0\CSharpCollections.Array.exe
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Arrays\CSharpCollections.Array\CSharpCollections.Array\bin\Debug\net5.0\CSharpCollections.Array.deps.json
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Arrays\CSharpCollections.Array\CSharpCollections.Array\bin\Debug\net5.0\CSharpCollections.Array.runtimeconfig.json
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Arrays\CSharpCollections.Array\CSharpCollections.Array\bin\Debug\net5.0\CSharpCollections.Array.runtimeconfig.dev.json
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Arrays\CSharpCollections.Array\CSharpCollections.Array\bin\Debug\net5.0\CSharpCollections.Array.dll
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Arrays\CSharpCollections.Array\CSharpCollections.Array\bin\Debug\net5.0\ref\CSharpCollections.Array.dll
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Arrays\CSharpCollections.Array\CSharpCollections.Array\bin\Debug\net5.0\CSharpCollections.Array.pdb
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Arrays\CSharpCollections.Array\CSharpCollections.Array\obj\Debug\net5.0\CSharpCollections.Array.csproj.AssemblyReference.cache
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Arrays\CSharpCollections.Array\CSharpCollections.Array\obj\Debug\net5.0\CSharpCollections.Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Arrays\CSharpCollections.Array\CSharpCollections.Array\obj\Debug\net5.0\CSharpCollections.Array.AssemblyInfoInputs.cache
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Arrays\CSharpCollections.Array\CSharpCollections.Array\obj\Debug\net5.0\CSharpCollections.Array.AssemblyInfo.cs
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Arrays\CSharpCollections.Array\CSharpCollections.Array\obj\Debug\net5.0\CSharpCollections.Array.csproj.CoreCompileInputs.cache
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Arrays\CSharpCollections.Array\CSharpCollections.Array\obj\Debug\net5.0\CSharpCollections.Array.dll
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Arrays\CSharpCollections.Array\CSharpCollections.Array\obj\Debug\net5.0\ref\CSharpCollections.Array.dll
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Arrays\CSharpCollections.Array\CSharpCollections.Array\obj\Debug\net5.0\CSharpCollections.Array.pdb
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Arrays\CSharpCollections.Array\CSharpCollections.Array\obj\Debug\net5.0\CSharpCollections.Array.genruntimeconfig.cache

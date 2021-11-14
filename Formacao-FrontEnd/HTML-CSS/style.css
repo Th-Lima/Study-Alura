@@ -1,0 +1,286 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+header{
+    background: #BBBBBB;
+    padding: 20px 0;
+    border-bottom: solid 20px #000000;
+    border-top: solid 20px #000000;
+}
+
+.caixa{
+    width: 940px;
+    position: relative;
+    margin: 0 auto;
+}
+
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+nav a {
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+    transition: 0.9s all;
+}
+
+nav a:hover{
+    border:2px solid #9e9d9d;
+    border-radius: 5px;
+    padding: 10px 10px;
+    transform: scale(1.1);
+}
+
+.produtos{
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+.produtos li{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border: 2px solid #000000;
+    border-radius: 15px;
+}
+
+.produtos li:hover{
+    box-shadow: 10px 5px 5px #9e9d9d;
+    border-color: white;
+}
+
+.produtos li:active{
+    box-shadow: 10px 5px 5px black;
+}
+
+.produtos li:hover h2{
+    font-size: 34px;
+}
+
+.produtos h2{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.produto-descricao{
+    font-size: 18px;
+}
+
+.produto-preco{
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+main{
+
+}
+
+form{
+    margin:auto;
+    width: 50%;
+}
+
+form label, form legend {
+    display: block;
+    font-size: 20px;
+    margin: 30px 0px 10px;
+}
+
+.input-padrao{
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 50%;
+}
+
+.checkbox{
+    margin: 20px 0;
+}
+
+.enviar{
+    width: 40%;
+    padding: 15px 0;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(255, 176, 30);
+    box-shadow: 5px 5px 5px #9e9d9d;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    cursor: pointer;
+    transition: 0.9s all;
+}
+
+.enviar:hover{
+    background-color: rgb(109, 72, 4);
+    transform: scale(1.1);
+}
+
+table{
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 590px;
+}
+thead{
+    background: #555555;
+    color: white;
+    font-weight: bold;
+}
+td, th{
+    border: 1px solid #000000;
+    padding: 8px 15px;
+}
+
+footer{
+    text-align: center;
+    background: url("img/bg.jpg");
+    padding: 40px 0;
+}
+.copyright{
+    color: white;
+    font-size: 13px;
+    margin: 20px 0;
+}
+
+/* Css página inicial */
+.banner{
+    width: 100%;
+    border-bottom: solid 20px #000000;
+}
+
+.titulo-principal{
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+    clear: left;
+}
+
+.principal{
+    padding: 3em 0;
+    background: #fefefeb7;
+    width: 940px;
+    margin: auto;
+}
+
+.principal p{
+     margin: 0 0 0.5em; 
+}
+
+.principal strong{
+    font-weight: bold;
+}
+
+.principal em{
+    font-style: italic;
+}
+
+.beneficios{
+    padding: 3em 0;
+    background: #b9b9b9;
+}
+
+.utensilios{
+    width: 120px;
+    float: left;
+    margin: 0px 20px  0px;
+    border-radius: 5px;
+    filter: grayscale(100%);
+    transition: filter 0.4s;
+}
+
+.utensilios:hover{
+    filter: grayscale(0);
+}
+
+.mapa-conteudo{
+    width: 940px;
+    margin:0 auto;
+}
+
+.mapa{
+    padding: 3em 0;
+    background: linear-gradient(#FEFEFE, #b9b9b9);
+}
+
+.mapa-iframe{
+    margin-top: 5px;
+    box-shadow: 5px 5px 5px #5e5d5d;
+}
+
+.mapa p {
+    margin: 0 0;
+    text-align: center;
+}
+
+.conteudo-beneficios{
+    width: 640px;
+    margin: 0 auto;
+}
+
+.lista-beneficios{
+    width: 40%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.itens{
+    line-height: 1.5;
+}
+
+.itens::before{
+    content: "🟊";
+}
+
+.itens:nth-child(2n){
+    font-weight: bold;
+}
+
+.imagem-beneficios{
+    width: 60%;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #5e5d5d;
+    opacity: 1;
+    transition: 400ms;
+}
+
+.imagem-beneficios:hover{
+    opacity: 0.3;
+}
+
+.video{
+    width: 500px;
+    margin: 2em auto;
+}
+
+@media screen and (max-width: 480px) {
+    .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video{
+        width: auto;
+    }
+
+    h1{
+        text-align: center;
+    }
+
+    nav{
+        position: static;
+    }
+
+    .lista-beneficios, .imagem-beneficios{
+       width: 100%;     
+    }
+}

@@ -1,0 +1,16 @@
+C:\Study\Alura\Formacao-dotNET\Collections-parte02\Colecoes-Ordenadas\ColecoesOrdenadas\ColecoesOrdenadas\bin\Debug\net5.0\ColecoesOrdenadas.exe
+C:\Study\Alura\Formacao-dotNET\Collections-parte02\Colecoes-Ordenadas\ColecoesOrdenadas\ColecoesOrdenadas\bin\Debug\net5.0\ColecoesOrdenadas.deps.json
+C:\Study\Alura\Formacao-dotNET\Collections-parte02\Colecoes-Ordenadas\ColecoesOrdenadas\ColecoesOrdenadas\bin\Debug\net5.0\ColecoesOrdenadas.runtimeconfig.json
+C:\Study\Alura\Formacao-dotNET\Collections-parte02\Colecoes-Ordenadas\ColecoesOrdenadas\ColecoesOrdenadas\bin\Debug\net5.0\ColecoesOrdenadas.runtimeconfig.dev.json
+C:\Study\Alura\Formacao-dotNET\Collections-parte02\Colecoes-Ordenadas\ColecoesOrdenadas\ColecoesOrdenadas\bin\Debug\net5.0\ColecoesOrdenadas.dll
+C:\Study\Alura\Formacao-dotNET\Collections-parte02\Colecoes-Ordenadas\ColecoesOrdenadas\ColecoesOrdenadas\bin\Debug\net5.0\ref\ColecoesOrdenadas.dll
+C:\Study\Alura\Formacao-dotNET\Collections-parte02\Colecoes-Ordenadas\ColecoesOrdenadas\ColecoesOrdenadas\bin\Debug\net5.0\ColecoesOrdenadas.pdb
+C:\Study\Alura\Formacao-dotNET\Collections-parte02\Colecoes-Ordenadas\ColecoesOrdenadas\ColecoesOrdenadas\obj\Debug\net5.0\ColecoesOrdenadas.csproj.AssemblyReference.cache
+C:\Study\Alura\Formacao-dotNET\Collections-parte02\Colecoes-Ordenadas\ColecoesOrdenadas\ColecoesOrdenadas\obj\Debug\net5.0\ColecoesOrdenadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\Alura\Formacao-dotNET\Collections-parte02\Colecoes-Ordenadas\ColecoesOrdenadas\ColecoesOrdenadas\obj\Debug\net5.0\ColecoesOrdenadas.AssemblyInfoInputs.cache
+C:\Study\Alura\Formacao-dotNET\Collections-parte02\Colecoes-Ordenadas\ColecoesOrdenadas\ColecoesOrdenadas\obj\Debug\net5.0\ColecoesOrdenadas.AssemblyInfo.cs
+C:\Study\Alura\Formacao-dotNET\Collections-parte02\Colecoes-Ordenadas\ColecoesOrdenadas\ColecoesOrdenadas\obj\Debug\net5.0\ColecoesOrdenadas.csproj.CoreCompileInputs.cache
+C:\Study\Alura\Formacao-dotNET\Collections-parte02\Colecoes-Ordenadas\ColecoesOrdenadas\ColecoesOrdenadas\obj\Debug\net5.0\ColecoesOrdenadas.dll
+C:\Study\Alura\Formacao-dotNET\Collections-parte02\Colecoes-Ordenadas\ColecoesOrdenadas\ColecoesOrdenadas\obj\Debug\net5.0\ref\ColecoesOrdenadas.dll
+C:\Study\Alura\Formacao-dotNET\Collections-parte02\Colecoes-Ordenadas\ColecoesOrdenadas\ColecoesOrdenadas\obj\Debug\net5.0\ColecoesOrdenadas.pdb
+C:\Study\Alura\Formacao-dotNET\Collections-parte02\Colecoes-Ordenadas\ColecoesOrdenadas\ColecoesOrdenadas\obj\Debug\net5.0\ColecoesOrdenadas.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+C:\Users\U6104902.TEN\Documents\Alura\Formacao-dotNET\parte4-Excecoes\ByteBank\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\U6104902.TEN\Documents\Alura\Formacao-dotNET\parte4-Excecoes\ByteBank\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\U6104902.TEN\Documents\Alura\Formacao-dotNET\parte4-Excecoes\ByteBank\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\U6104902.TEN\Documents\Alura\Formacao-dotNET\parte4-Excecoes\ByteBank\ByteBank\obj\Debug\ByteBank.csprojAssemblyReference.cache
+C:\Users\U6104902.TEN\Documents\Alura\Formacao-dotNET\parte4-Excecoes\ByteBank\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\U6104902.TEN\Documents\Alura\Formacao-dotNET\parte4-Excecoes\ByteBank\ByteBank\obj\Debug\ByteBank.pdb

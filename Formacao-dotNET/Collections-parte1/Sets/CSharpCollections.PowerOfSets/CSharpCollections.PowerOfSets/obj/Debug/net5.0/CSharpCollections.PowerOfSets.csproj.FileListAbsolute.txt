@@ -1,0 +1,16 @@
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Sets\CSharpCollections.PowerOfSets\CSharpCollections.PowerOfSets\bin\Debug\net5.0\CSharpCollections.PowerOfSets.exe
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Sets\CSharpCollections.PowerOfSets\CSharpCollections.PowerOfSets\bin\Debug\net5.0\CSharpCollections.PowerOfSets.deps.json
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Sets\CSharpCollections.PowerOfSets\CSharpCollections.PowerOfSets\bin\Debug\net5.0\CSharpCollections.PowerOfSets.runtimeconfig.json
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Sets\CSharpCollections.PowerOfSets\CSharpCollections.PowerOfSets\bin\Debug\net5.0\CSharpCollections.PowerOfSets.runtimeconfig.dev.json
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Sets\CSharpCollections.PowerOfSets\CSharpCollections.PowerOfSets\bin\Debug\net5.0\CSharpCollections.PowerOfSets.dll
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Sets\CSharpCollections.PowerOfSets\CSharpCollections.PowerOfSets\bin\Debug\net5.0\ref\CSharpCollections.PowerOfSets.dll
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Sets\CSharpCollections.PowerOfSets\CSharpCollections.PowerOfSets\bin\Debug\net5.0\CSharpCollections.PowerOfSets.pdb
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Sets\CSharpCollections.PowerOfSets\CSharpCollections.PowerOfSets\obj\Debug\net5.0\CSharpCollections.PowerOfSets.csproj.AssemblyReference.cache
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Sets\CSharpCollections.PowerOfSets\CSharpCollections.PowerOfSets\obj\Debug\net5.0\CSharpCollections.PowerOfSets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Sets\CSharpCollections.PowerOfSets\CSharpCollections.PowerOfSets\obj\Debug\net5.0\CSharpCollections.PowerOfSets.AssemblyInfoInputs.cache
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Sets\CSharpCollections.PowerOfSets\CSharpCollections.PowerOfSets\obj\Debug\net5.0\CSharpCollections.PowerOfSets.AssemblyInfo.cs
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Sets\CSharpCollections.PowerOfSets\CSharpCollections.PowerOfSets\obj\Debug\net5.0\CSharpCollections.PowerOfSets.csproj.CoreCompileInputs.cache
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Sets\CSharpCollections.PowerOfSets\CSharpCollections.PowerOfSets\obj\Debug\net5.0\CSharpCollections.PowerOfSets.dll
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Sets\CSharpCollections.PowerOfSets\CSharpCollections.PowerOfSets\obj\Debug\net5.0\ref\CSharpCollections.PowerOfSets.dll
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Sets\CSharpCollections.PowerOfSets\CSharpCollections.PowerOfSets\obj\Debug\net5.0\CSharpCollections.PowerOfSets.pdb
+C:\Study\Alura\Formacao-dotNET\Collections-parte1\Sets\CSharpCollections.PowerOfSets\CSharpCollections.PowerOfSets\obj\Debug\net5.0\CSharpCollections.PowerOfSets.genruntimeconfig.cache
