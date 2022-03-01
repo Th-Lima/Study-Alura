@@ -1,0 +1,15 @@
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ArraysMultidimensionais\JaggedArrays\bin\Debug\net5.0\JaggedArrays.exe
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ArraysMultidimensionais\JaggedArrays\bin\Debug\net5.0\JaggedArrays.deps.json
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ArraysMultidimensionais\JaggedArrays\bin\Debug\net5.0\JaggedArrays.runtimeconfig.json
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ArraysMultidimensionais\JaggedArrays\bin\Debug\net5.0\JaggedArrays.runtimeconfig.dev.json
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ArraysMultidimensionais\JaggedArrays\bin\Debug\net5.0\JaggedArrays.dll
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ArraysMultidimensionais\JaggedArrays\bin\Debug\net5.0\ref\JaggedArrays.dll
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ArraysMultidimensionais\JaggedArrays\bin\Debug\net5.0\JaggedArrays.pdb
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ArraysMultidimensionais\JaggedArrays\obj\Debug\net5.0\JaggedArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ArraysMultidimensionais\JaggedArrays\obj\Debug\net5.0\JaggedArrays.AssemblyInfoInputs.cache
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ArraysMultidimensionais\JaggedArrays\obj\Debug\net5.0\JaggedArrays.AssemblyInfo.cs
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ArraysMultidimensionais\JaggedArrays\obj\Debug\net5.0\JaggedArrays.csproj.CoreCompileInputs.cache
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ArraysMultidimensionais\JaggedArrays\obj\Debug\net5.0\JaggedArrays.dll
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ArraysMultidimensionais\JaggedArrays\obj\Debug\net5.0\ref\JaggedArrays.dll
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ArraysMultidimensionais\JaggedArrays\obj\Debug\net5.0\JaggedArrays.pdb
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ArraysMultidimensionais\JaggedArrays\obj\Debug\net5.0\JaggedArrays.genruntimeconfig.cache

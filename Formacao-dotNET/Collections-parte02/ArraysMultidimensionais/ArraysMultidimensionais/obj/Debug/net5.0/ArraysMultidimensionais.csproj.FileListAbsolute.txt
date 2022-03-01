@@ -1,0 +1,16 @@
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ArraysMultidimensionais\ArraysMultidimensionais\bin\Debug\net5.0\ArraysMultidimensionais.exe
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ArraysMultidimensionais\ArraysMultidimensionais\bin\Debug\net5.0\ArraysMultidimensionais.deps.json
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ArraysMultidimensionais\ArraysMultidimensionais\bin\Debug\net5.0\ArraysMultidimensionais.runtimeconfig.json
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ArraysMultidimensionais\ArraysMultidimensionais\bin\Debug\net5.0\ArraysMultidimensionais.runtimeconfig.dev.json
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ArraysMultidimensionais\ArraysMultidimensionais\bin\Debug\net5.0\ArraysMultidimensionais.dll
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ArraysMultidimensionais\ArraysMultidimensionais\bin\Debug\net5.0\ref\ArraysMultidimensionais.dll
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ArraysMultidimensionais\ArraysMultidimensionais\bin\Debug\net5.0\ArraysMultidimensionais.pdb
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ArraysMultidimensionais\ArraysMultidimensionais\obj\Debug\net5.0\ArraysMultidimensionais.csproj.AssemblyReference.cache
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ArraysMultidimensionais\ArraysMultidimensionais\obj\Debug\net5.0\ArraysMultidimensionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ArraysMultidimensionais\ArraysMultidimensionais\obj\Debug\net5.0\ArraysMultidimensionais.AssemblyInfoInputs.cache
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ArraysMultidimensionais\ArraysMultidimensionais\obj\Debug\net5.0\ArraysMultidimensionais.AssemblyInfo.cs
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ArraysMultidimensionais\ArraysMultidimensionais\obj\Debug\net5.0\ArraysMultidimensionais.csproj.CoreCompileInputs.cache
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ArraysMultidimensionais\ArraysMultidimensionais\obj\Debug\net5.0\ArraysMultidimensionais.dll
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ArraysMultidimensionais\ArraysMultidimensionais\obj\Debug\net5.0\ref\ArraysMultidimensionais.dll
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ArraysMultidimensionais\ArraysMultidimensionais\obj\Debug\net5.0\ArraysMultidimensionais.pdb
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ArraysMultidimensionais\ArraysMultidimensionais\obj\Debug\net5.0\ArraysMultidimensionais.genruntimeconfig.cache
