@@ -25,7 +25,7 @@ namespace ConsoleApp1
 
             foreach(var mes in meses)
             {
-                meses[0] = meses[0].ToUpper();
+                //meses[0] = meses[0].ToUpper();
                 Console.WriteLine(mes);
             }
         }
