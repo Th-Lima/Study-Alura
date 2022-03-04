@@ -1,0 +1,16 @@
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\MaisOperadoresLinq\OperadoresDeConjuntosLINQ\bin\Debug\net5.0\OperadoresDeConjuntosLINQ.exe
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\MaisOperadoresLinq\OperadoresDeConjuntosLINQ\bin\Debug\net5.0\OperadoresDeConjuntosLINQ.deps.json
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\MaisOperadoresLinq\OperadoresDeConjuntosLINQ\bin\Debug\net5.0\OperadoresDeConjuntosLINQ.runtimeconfig.json
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\MaisOperadoresLinq\OperadoresDeConjuntosLINQ\bin\Debug\net5.0\OperadoresDeConjuntosLINQ.runtimeconfig.dev.json
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\MaisOperadoresLinq\OperadoresDeConjuntosLINQ\bin\Debug\net5.0\OperadoresDeConjuntosLINQ.dll
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\MaisOperadoresLinq\OperadoresDeConjuntosLINQ\bin\Debug\net5.0\ref\OperadoresDeConjuntosLINQ.dll
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\MaisOperadoresLinq\OperadoresDeConjuntosLINQ\bin\Debug\net5.0\OperadoresDeConjuntosLINQ.pdb
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\MaisOperadoresLinq\OperadoresDeConjuntosLINQ\obj\Debug\net5.0\OperadoresDeConjuntosLINQ.csproj.AssemblyReference.cache
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\MaisOperadoresLinq\OperadoresDeConjuntosLINQ\obj\Debug\net5.0\OperadoresDeConjuntosLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\MaisOperadoresLinq\OperadoresDeConjuntosLINQ\obj\Debug\net5.0\OperadoresDeConjuntosLINQ.AssemblyInfoInputs.cache
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\MaisOperadoresLinq\OperadoresDeConjuntosLINQ\obj\Debug\net5.0\OperadoresDeConjuntosLINQ.AssemblyInfo.cs
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\MaisOperadoresLinq\OperadoresDeConjuntosLINQ\obj\Debug\net5.0\OperadoresDeConjuntosLINQ.csproj.CoreCompileInputs.cache
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\MaisOperadoresLinq\OperadoresDeConjuntosLINQ\obj\Debug\net5.0\OperadoresDeConjuntosLINQ.dll
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\MaisOperadoresLinq\OperadoresDeConjuntosLINQ\obj\Debug\net5.0\ref\OperadoresDeConjuntosLINQ.dll
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\MaisOperadoresLinq\OperadoresDeConjuntosLINQ\obj\Debug\net5.0\OperadoresDeConjuntosLINQ.pdb
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\MaisOperadoresLinq\OperadoresDeConjuntosLINQ\obj\Debug\net5.0\OperadoresDeConjuntosLINQ.genruntimeconfig.cache

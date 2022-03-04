@@ -1,0 +1,16 @@
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\MaisOperadoresLinq\MaisOperadoresLinq\bin\Debug\net5.0\MaisOperadoresLinq.exe
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\MaisOperadoresLinq\MaisOperadoresLinq\bin\Debug\net5.0\MaisOperadoresLinq.deps.json
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\MaisOperadoresLinq\MaisOperadoresLinq\bin\Debug\net5.0\MaisOperadoresLinq.runtimeconfig.json
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\MaisOperadoresLinq\MaisOperadoresLinq\bin\Debug\net5.0\MaisOperadoresLinq.runtimeconfig.dev.json
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\MaisOperadoresLinq\MaisOperadoresLinq\bin\Debug\net5.0\MaisOperadoresLinq.dll
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\MaisOperadoresLinq\MaisOperadoresLinq\bin\Debug\net5.0\ref\MaisOperadoresLinq.dll
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\MaisOperadoresLinq\MaisOperadoresLinq\bin\Debug\net5.0\MaisOperadoresLinq.pdb
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\MaisOperadoresLinq\MaisOperadoresLinq\obj\Debug\net5.0\MaisOperadoresLinq.csproj.AssemblyReference.cache
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\MaisOperadoresLinq\MaisOperadoresLinq\obj\Debug\net5.0\MaisOperadoresLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\MaisOperadoresLinq\MaisOperadoresLinq\obj\Debug\net5.0\MaisOperadoresLinq.AssemblyInfoInputs.cache
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\MaisOperadoresLinq\MaisOperadoresLinq\obj\Debug\net5.0\MaisOperadoresLinq.AssemblyInfo.cs
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\MaisOperadoresLinq\MaisOperadoresLinq\obj\Debug\net5.0\MaisOperadoresLinq.csproj.CoreCompileInputs.cache
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\MaisOperadoresLinq\MaisOperadoresLinq\obj\Debug\net5.0\MaisOperadoresLinq.dll
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\MaisOperadoresLinq\MaisOperadoresLinq\obj\Debug\net5.0\ref\MaisOperadoresLinq.dll
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\MaisOperadoresLinq\MaisOperadoresLinq\obj\Debug\net5.0\MaisOperadoresLinq.pdb
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\MaisOperadoresLinq\MaisOperadoresLinq\obj\Debug\net5.0\MaisOperadoresLinq.genruntimeconfig.cache

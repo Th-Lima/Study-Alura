@@ -1,0 +1,15 @@
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ConvertendoEEnumerandoColecoes\ConsoleApp1\bin\Debug\net5.0\LacoForEach.exe
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ConvertendoEEnumerandoColecoes\ConsoleApp1\bin\Debug\net5.0\LacoForEach.deps.json
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ConvertendoEEnumerandoColecoes\ConsoleApp1\bin\Debug\net5.0\LacoForEach.runtimeconfig.json
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ConvertendoEEnumerandoColecoes\ConsoleApp1\bin\Debug\net5.0\LacoForEach.runtimeconfig.dev.json
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ConvertendoEEnumerandoColecoes\ConsoleApp1\bin\Debug\net5.0\LacoForEach.dll
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ConvertendoEEnumerandoColecoes\ConsoleApp1\bin\Debug\net5.0\ref\LacoForEach.dll
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ConvertendoEEnumerandoColecoes\ConsoleApp1\bin\Debug\net5.0\LacoForEach.pdb
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ConvertendoEEnumerandoColecoes\ConsoleApp1\obj\Debug\net5.0\LacoForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ConvertendoEEnumerandoColecoes\ConsoleApp1\obj\Debug\net5.0\LacoForEach.AssemblyInfoInputs.cache
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ConvertendoEEnumerandoColecoes\ConsoleApp1\obj\Debug\net5.0\LacoForEach.AssemblyInfo.cs
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ConvertendoEEnumerandoColecoes\ConsoleApp1\obj\Debug\net5.0\LacoForEach.csproj.CoreCompileInputs.cache
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ConvertendoEEnumerandoColecoes\ConsoleApp1\obj\Debug\net5.0\LacoForEach.dll
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ConvertendoEEnumerandoColecoes\ConsoleApp1\obj\Debug\net5.0\ref\LacoForEach.dll
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ConvertendoEEnumerandoColecoes\ConsoleApp1\obj\Debug\net5.0\LacoForEach.pdb
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ConvertendoEEnumerandoColecoes\ConsoleApp1\obj\Debug\net5.0\LacoForEach.genruntimeconfig.cache

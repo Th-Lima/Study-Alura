@@ -1,0 +1,16 @@
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ConvertendoEEnumerandoColecoes\ConvertendoEEnumerandoColecoes\bin\Debug\net5.0\ConvertendoEEnumerandoColecoes.exe
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ConvertendoEEnumerandoColecoes\ConvertendoEEnumerandoColecoes\bin\Debug\net5.0\ConvertendoEEnumerandoColecoes.deps.json
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ConvertendoEEnumerandoColecoes\ConvertendoEEnumerandoColecoes\bin\Debug\net5.0\ConvertendoEEnumerandoColecoes.runtimeconfig.json
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ConvertendoEEnumerandoColecoes\ConvertendoEEnumerandoColecoes\bin\Debug\net5.0\ConvertendoEEnumerandoColecoes.runtimeconfig.dev.json
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ConvertendoEEnumerandoColecoes\ConvertendoEEnumerandoColecoes\bin\Debug\net5.0\ConvertendoEEnumerandoColecoes.dll
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ConvertendoEEnumerandoColecoes\ConvertendoEEnumerandoColecoes\bin\Debug\net5.0\ref\ConvertendoEEnumerandoColecoes.dll
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ConvertendoEEnumerandoColecoes\ConvertendoEEnumerandoColecoes\bin\Debug\net5.0\ConvertendoEEnumerandoColecoes.pdb
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ConvertendoEEnumerandoColecoes\ConvertendoEEnumerandoColecoes\obj\Debug\net5.0\ConvertendoEEnumerandoColecoes.csproj.AssemblyReference.cache
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ConvertendoEEnumerandoColecoes\ConvertendoEEnumerandoColecoes\obj\Debug\net5.0\ConvertendoEEnumerandoColecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ConvertendoEEnumerandoColecoes\ConvertendoEEnumerandoColecoes\obj\Debug\net5.0\ConvertendoEEnumerandoColecoes.AssemblyInfoInputs.cache
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ConvertendoEEnumerandoColecoes\ConvertendoEEnumerandoColecoes\obj\Debug\net5.0\ConvertendoEEnumerandoColecoes.AssemblyInfo.cs
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ConvertendoEEnumerandoColecoes\ConvertendoEEnumerandoColecoes\obj\Debug\net5.0\ConvertendoEEnumerandoColecoes.csproj.CoreCompileInputs.cache
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ConvertendoEEnumerandoColecoes\ConvertendoEEnumerandoColecoes\obj\Debug\net5.0\ConvertendoEEnumerandoColecoes.dll
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ConvertendoEEnumerandoColecoes\ConvertendoEEnumerandoColecoes\obj\Debug\net5.0\ref\ConvertendoEEnumerandoColecoes.dll
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ConvertendoEEnumerandoColecoes\ConvertendoEEnumerandoColecoes\obj\Debug\net5.0\ConvertendoEEnumerandoColecoes.pdb
+C:\Study-Alura\Formacao-dotNET\Collections-parte02\ConvertendoEEnumerandoColecoes\ConvertendoEEnumerandoColecoes\obj\Debug\net5.0\ConvertendoEEnumerandoColecoes.genruntimeconfig.cache

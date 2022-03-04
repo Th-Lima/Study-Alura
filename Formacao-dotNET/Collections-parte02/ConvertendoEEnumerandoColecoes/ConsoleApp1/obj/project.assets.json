@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Study-Alura\\Formacao-dotNET\\Collections-parte02\\MaisOperadoresLinq\\MaisOperadoresLinq\\ConsultandoSequenciasDeElementosComLINQ.csproj",
-      "projectName": "ConsultandoSequenciasDeElementosComLINQ",
-      "projectPath": "C:\\Study-Alura\\Formacao-dotNET\\Collections-parte02\\MaisOperadoresLinq\\MaisOperadoresLinq\\ConsultandoSequenciasDeElementosComLINQ.csproj",
+      "projectUniqueName": "C:\\Study-Alura\\Formacao-dotNET\\Collections-parte02\\ConvertendoEEnumerandoColecoes\\ConsoleApp1\\LacoForEach.csproj",
+      "projectName": "LacoForEach",
+      "projectPath": "C:\\Study-Alura\\Formacao-dotNET\\Collections-parte02\\ConvertendoEEnumerandoColecoes\\ConsoleApp1\\LacoForEach.csproj",
       "packagesPath": "C:\\Users\\6104902\\.nuget\\packages\\",
-      "outputPath": "C:\\Study-Alura\\Formacao-dotNET\\Collections-parte02\\MaisOperadoresLinq\\MaisOperadoresLinq\\obj\\",
+      "outputPath": "C:\\Study-Alura\\Formacao-dotNET\\Collections-parte02\\ConvertendoEEnumerandoColecoes\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
