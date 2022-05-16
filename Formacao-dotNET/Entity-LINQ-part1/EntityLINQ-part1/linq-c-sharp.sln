@@ -14,7 +14,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{5A2F28F9-4
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula2", "Aula2\Aula2.csproj", "{6DD17276-BA1C-46D0-B9D5-A5270E8EBC79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula3", "Aula3\Aula3.csproj", "{4CC8A471-D7BE-4CF0-AD60-4E4AE0183170}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula3", "Aula3\Aula3.csproj", "{4CC8A471-D7BE-4CF0-AD60-4E4AE0183170}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "group-by-linq", "group-by-linq\group-by-linq.csproj", "{9877ED9E-06DC-4528-97E7-83B1F9774BAA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -34,6 +36,10 @@ Global
 		{4CC8A471-D7BE-4CF0-AD60-4E4AE0183170}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CC8A471-D7BE-4CF0-AD60-4E4AE0183170}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CC8A471-D7BE-4CF0-AD60-4E4AE0183170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9877ED9E-06DC-4528-97E7-83B1F9774BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9877ED9E-06DC-4528-97E7-83B1F9774BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9877ED9E-06DC-4528-97E7-83B1F9774BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9877ED9E-06DC-4528-97E7-83B1F9774BAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

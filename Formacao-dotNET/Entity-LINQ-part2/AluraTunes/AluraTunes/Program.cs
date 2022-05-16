@@ -10,26 +10,34 @@ namespace AluraTunesAula1
         {
             using (var contexto = new AluraTunesEntities())
             {
-                decimal queryMedia = contexto.NotaFiscals.Average(x => x.Total);
-                
-                var query = 
-                from nf in contexto.NotaFiscals
-                where nf.Total > queryMedia
-                orderby nf.Total descending
-                select new 
-                {
-                    Numero = nf.NotaFiscalId,
-                    Data = nf.DataNotaFiscal,
-                    Cliente = nf.Cliente.PrimeiroNome + " " + nf.Cliente.Sobrenome,
-                    Valor = nf.Total
-                };
+                var query =
+                    from f in contexto.Faixas
+                    where f.ItemNotaFiscals.Count() > 0
+                    let TotalVendas = f.ItemNotaFiscals.Sum(x => x.Quantidade * f.PrecoUnitario)
+                    orderby TotalVendas descending
+                    select new
+                    {
+                        f.FaixaId,
+                        f.Nome,
+                        Total = TotalVendas
+                    };
 
-                foreach (var nf in query)
+                var produtoMaisVendido = query.First();
+
+                Console.WriteLine("{0}\t{1}\t{2}", produtoMaisVendido.FaixaId, produtoMaisVendido.Total, produtoMaisVendido.Nome);
+
+                var queryClientes =
+                    from nf in contexto.ItemNotaFiscals
+                    where nf.FaixaId == produtoMaisVendido.FaixaId
+                    select new
+                    {
+                        Cliente = nf.NotaFiscal.Cliente.PrimeiroNome + " " + nf.NotaFiscal.Cliente.Sobrenome
+                    };
+
+                foreach (var item in queryClientes)
                 {
-                    Console.WriteLine("{0}\t{1}\t{2}\t{3}", nf.Numero, nf.Data, nf.Cliente, nf.Valor);
+                    Console.WriteLine(item.Cliente);
                 }
-
-                Console.WriteLine($"A média é {queryMedia}");
             }
         }
     }
@@ -40,7 +48,7 @@ namespace AluraTunesAula1
     public static class Aula1Video1
     {
         private const int TAMANHO_PAGINA = 10;
-       
+
         public static void Principal()
         {
             using (var contexto = new AluraTunesEntities())
@@ -114,6 +122,47 @@ namespace AluraTunesAula1
                 }
 
                 Console.WriteLine($"A média é {queryMedia}");
+            }
+        }
+    }
+
+    /// <summary>
+    /// CLIENTES COMPRARAM PRODUTO MAIS VENDIDO
+    /// </summary>
+    public static class Aula1Video3
+    {
+        public static void Principal()
+        {
+            using (var contexto = new AluraTunesEntities())
+            {
+                var query =
+                    from f in contexto.Faixas
+                    where f.ItemNotaFiscals.Count() > 0
+                    let TotalVendas = f.ItemNotaFiscals.Sum(x => x.Quantidade * f.PrecoUnitario)
+                    orderby TotalVendas descending
+                    select new
+                    {
+                        f.FaixaId,
+                        f.Nome,
+                        Total = TotalVendas
+                    };
+
+                var produtoMaisVendido = query.First();
+
+                Console.WriteLine("{0}\t{1}\t{2}", produtoMaisVendido.FaixaId, produtoMaisVendido.Total, produtoMaisVendido.Nome);
+
+                var queryClientes =
+                    from nf in contexto.ItemNotaFiscals
+                    where nf.FaixaId == produtoMaisVendido.FaixaId
+                    select new
+                    {
+                        Cliente = nf.NotaFiscal.Cliente.PrimeiroNome + " " + nf.NotaFiscal.Cliente.Sobrenome
+                    };
+
+                foreach (var item in queryClientes)
+                {
+                    Console.WriteLine(item.Cliente);
+                }
             }
         }
     }
