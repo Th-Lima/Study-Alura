@@ -67,6 +67,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Aula1\Aula1Video1.cs" />
+    <Compile Include="Aula1\Aula1Video2.cs" />
+    <Compile Include="Aula1\Aula1Video3.cs" />
+    <Compile Include="Aula2\Aula2Video1.cs" />
     <Compile Include="Data\Album.cs">
       <DependentUpon>AluraTunes.tt</DependentUpon>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
