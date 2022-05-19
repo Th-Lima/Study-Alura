@@ -1,4 +1,5 @@
 ﻿using AluraTunes.Data;
+using System;
 using System.Linq;
 
 namespace AluraTunes
@@ -9,7 +10,7 @@ namespace AluraTunes
         {
             using (var contexto = new AluraTunesEntities())
             {
-               
+
             }
         }
     }
