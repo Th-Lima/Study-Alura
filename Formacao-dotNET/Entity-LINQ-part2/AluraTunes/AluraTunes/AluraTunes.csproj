@@ -57,6 +57,7 @@
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
     <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.Security" />
     <Reference Include="System.Xml.Linq" />
@@ -65,6 +66,12 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
+    <Reference Include="zxing, Version=0.16.8.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZXing.Net.0.16.8\lib\net47\zxing.dll</HintPath>
+    </Reference>
+    <Reference Include="zxing.presentation, Version=0.16.8.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZXing.Net.0.16.8\lib\net47\zxing.presentation.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Aula1\Aula1Video1.cs" />
@@ -72,6 +79,8 @@
     <Compile Include="Aula1\Aula1Video3.cs" />
     <Compile Include="Aula2\Aula2Video1.cs" />
     <Compile Include="Aula3\Aula3Video1.cs" />
+    <Compile Include="Aula4\Aula4Video1.cs" />
+    <Compile Include="Aula4\Aula4Video2.cs" />
     <Compile Include="Data\Album.cs">
       <DependentUpon>AluraTunes.tt</DependentUpon>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>

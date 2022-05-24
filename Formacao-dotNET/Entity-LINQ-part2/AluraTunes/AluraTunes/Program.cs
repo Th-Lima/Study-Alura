@@ -1,6 +1,11 @@
 ﻿using AluraTunes.Data;
 using System;
+using System.Diagnostics;
+using System.Drawing.Imaging;
+using System.IO;
 using System.Linq;
+using ZXing;
+using ZXing.Common;
 
 namespace AluraTunes
 {
@@ -10,7 +15,7 @@ namespace AluraTunes
         {
             using (var contexto = new AluraTunesEntities())
             {
-
+               
             }
         }
     }
