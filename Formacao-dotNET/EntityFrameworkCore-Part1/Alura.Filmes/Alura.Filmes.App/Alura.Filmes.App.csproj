@@ -126,9 +126,9 @@
   <ItemGroup>
     <Compile Include="Dados\AluraFilmesContexto.cs" />
     <Compile Include="Extensions\DbContextExtensions.cs" />
-    <Compile Include="Migrations\20220601203927_Inicial.cs" />
-    <Compile Include="Migrations\20220601203927_Inicial.designer.cs">
-      <DependentUpon>20220601203927_Inicial.cs</DependentUpon>
+    <Compile Include="Migrations\20220607210729_Inicial.cs" />
+    <Compile Include="Migrations\20220607210729_Inicial.designer.cs">
+      <DependentUpon>20220607210729_Inicial.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\AluraFilmesContextoModelSnapshot.cs" />
     <Compile Include="Negocio\Ator.cs" />

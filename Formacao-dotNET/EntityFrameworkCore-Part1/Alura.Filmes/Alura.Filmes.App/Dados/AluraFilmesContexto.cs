@@ -1,5 +1,6 @@
 ﻿using Alura.Filmes.App.Negocio;
 using Microsoft.EntityFrameworkCore;
+using System;
 
 namespace Alura.Filmes.App.Dados
 {
@@ -31,6 +32,12 @@ namespace Alura.Filmes.App.Dados
                 .Property(a => a.UltimoNome)
                 .HasColumnName("last_name")
                 .HasColumnType("varchar(45)")
+                .IsRequired();
+
+            modelBuilder.Entity<Ator>()
+                .Property<DateTime>("last_update")
+                .HasColumnType("datetime")
+                .HasDefaultValueSql("getdate()")
                 .IsRequired();
         }
     }
