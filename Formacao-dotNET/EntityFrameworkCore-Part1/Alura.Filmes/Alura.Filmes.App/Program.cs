@@ -11,15 +11,17 @@ namespace Alura.Filmes.App
         {
             using (var contexto = new AluraFilmesContexto())
             {
-                //contexto.LogSQLToConsole();
+                var filme = contexto.Filmes
+                    .Include(f => f.Atores)
+                    .ThenInclude(fa => fa.Ator)
+                    .First();
 
-                var atores = contexto.Atores
-                     .OrderByDescending(a => EF.Property<DateTime>(a, "last_update"))
-                     .Take(10);
+                Console.WriteLine(filme);
+                Console.WriteLine("Elenco");
 
-                foreach (var ator in atores)
+                foreach (var ator in filme.Atores)
                 {
-                    Console.WriteLine(ator + " - " + contexto.Entry(ator).Property("last_update").CurrentValue);
+                    Console.WriteLine(ator.Ator);
                 }
             }
         }
