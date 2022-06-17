@@ -1,4 +1,5 @@
 ﻿using Alura.Filmes.App.Dados;
+using Alura.Filmes.App.Extensions;
 using Alura.Filmes.App.Negocio;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -12,14 +13,24 @@ namespace Alura.Filmes.App
         {
             using (var contexto = new AluraFilmesContexto())
             {
-                var ator1 = new Ator { PrimeiroNome = "Emma", UltimoNome = "Watson" };
-                var ator2 = new Ator { PrimeiroNome = "Emma", UltimoNome = "Watson" };
-                contexto.AddRange(ator1, ator2);
 
+                var filme = new Filme()
+                {
+                    Titulo = "Cassino Royale",
+                    Duracao = 120,
+                    AnoLancamento = "2000",
+                    Classificacao = ClassificacaoEnum.MaioresQue14Anos,
+                    IdiomaFalado = contexto.Idiomas.First()
+                };
+
+                contexto.Entry(filme).Property("last_update").CurrentValue = DateTime.Now;
+
+                contexto.Filmes.Add(filme);
                 contexto.SaveChanges();
 
-                var emmaWatson = contexto.Atores.Where(x => x.PrimeiroNome == "Emma" && x.UltimoNome == "Watson");
-                Console.WriteLine($"Quantidade de atores com esse nome encontrados: {emmaWatson.Count()}");
+                var filemInserido = contexto.Filmes.First(x => x.Titulo == "Cassino Royale");
+
+                Console.WriteLine(filemInserido.Classificacao);
             }
         }
     }

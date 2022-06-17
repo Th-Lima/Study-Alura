@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using Alura.Filmes.App.Extensions;
+using System.Collections.Generic;
 
 namespace Alura.Filmes.App.Negocio
 {
@@ -13,6 +14,13 @@ namespace Alura.Filmes.App.Negocio
         public string AnoLancamento { get; set; }
 
         public short Duracao { get; set; }
+
+        public string TextoClassificao { get; private set; }
+        public ClassificacaoEnum Classificacao 
+        {
+            get { return TextoClassificao.FromStringToEnum(); }
+            set { TextoClassificao = value.FromEnumToString(); } 
+        }
 
         public IList<FilmeAtor> Atores { get; set; }
 
