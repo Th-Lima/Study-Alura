@@ -3,6 +3,8 @@ using Alura.Filmes.App.Extensions;
 using Alura.Filmes.App.Negocio;
 using Microsoft.EntityFrameworkCore;
 using System;
+using System.Data;
+using System.Data.SqlClient;
 using System.Linq;
 
 namespace Alura.Filmes.App
@@ -15,20 +17,24 @@ namespace Alura.Filmes.App
             {
                 contexto.LogSQLToConsole();
 
-                var sql = @"
-                 select a.*
-                    from actor a
-	                INNER JOIN
-                   top5_most_starred_actors filmes on filmes.actor_id = a.actor_id";
+                var categoria = "Action";
 
-                var atoresMaisAtuantes = contexto.Atores
-                    .FromSql(sql)
-                    .Include(x => x.Filmografia);
-
-                foreach (var ator in atoresMaisAtuantes)
+                var paramCategoria = new SqlParameter("category_name", categoria);
+                
+                var paramTotal = new SqlParameter
                 {
-                    Console.WriteLine($"O ator {ator.PrimeiroNome} {ator.UltimoNome} atuou em {ator.Filmografia.Count} filmes.");
-                }
+                    ParameterName = @"total_actors",
+                    Size = 4,
+                    Direction = ParameterDirection.Output
+                };
+
+                contexto.Database
+                    .ExecuteSqlCommand(
+                    "total_actors_from_given_category @category_name, @total_actors OUT", 
+                    paramCategoria, 
+                    paramTotal);
+
+                Console.WriteLine($"O Total de atores na categoria {categoria} é de {paramTotal.Value}");
             }
         }
     }
