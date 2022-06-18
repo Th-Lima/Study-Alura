@@ -13,16 +13,21 @@ namespace Alura.Filmes.App
         {
             using (var contexto = new AluraFilmesContexto())
             {
-                Console.WriteLine("CLIENTE");
-                foreach (var cliente in contexto.Clientes)
-                {
-                    Console.WriteLine(cliente);
-                }
+                contexto.LogSQLToConsole();
 
-                Console.WriteLine("\n FUNCIONARIO");
-                foreach (var funcionario in contexto.Funcionarios)
+                var sql = @"
+                 select a.*
+                    from actor a
+	                INNER JOIN
+                   top5_most_starred_actors filmes on filmes.actor_id = a.actor_id";
+
+                var atoresMaisAtuantes = contexto.Atores
+                    .FromSql(sql)
+                    .Include(x => x.Filmografia);
+
+                foreach (var ator in atoresMaisAtuantes)
                 {
-                    Console.WriteLine(funcionario);
+                    Console.WriteLine($"O ator {ator.PrimeiroNome} {ator.UltimoNome} atuou em {ator.Filmografia.Count} filmes.");
                 }
             }
         }
