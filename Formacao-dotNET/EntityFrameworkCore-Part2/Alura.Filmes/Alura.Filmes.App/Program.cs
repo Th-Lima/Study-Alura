@@ -17,25 +17,43 @@ namespace Alura.Filmes.App
             {
                 contexto.LogSQLToConsole();
 
-                var categoria = "Action";
+                var sql = "INSERT INTO language (name) VALUES ('Teste 1'), ('Teste 2'), ('Teste 3')";
+               
+                var registros = contexto.Database
+                    .ExecuteSqlCommand(sql);
 
-                var paramCategoria = new SqlParameter("category_name", categoria);
-                
-                var paramTotal = new SqlParameter
-                {
-                    ParameterName = @"total_actors",
-                    Size = 4,
-                    Direction = ParameterDirection.Output
-                };
+                Console.WriteLine($"Total de registros afetados é {registros}");
 
-                contexto.Database
-                    .ExecuteSqlCommand(
-                    "total_actors_from_given_category @category_name, @total_actors OUT", 
-                    paramCategoria, 
-                    paramTotal);
 
-                Console.WriteLine($"O Total de atores na categoria {categoria} é de {paramTotal.Value}");
+                var deleteSql = "DELETE FROM language WHERE name LIKE 'Teste%'";
+              
+                registros = contexto.Database
+                    .ExecuteSqlCommand(deleteSql);
+               
+                Console.WriteLine($"Total de registros afetados é {registros}");
             }
+        }
+
+        static void StoredProcedure(AluraFilmesContexto contexto)
+        {
+            var categoria = "Action";
+
+            var paramCategoria = new SqlParameter("category_name", categoria);
+
+            var paramTotal = new SqlParameter
+            {
+                ParameterName = @"total_actors",
+                Size = 4,
+                Direction = ParameterDirection.Output
+            };
+
+            contexto.Database
+                .ExecuteSqlCommand(
+                "total_actors_from_given_category @category_name, @total_actors OUT",
+                paramCategoria,
+                paramTotal);
+
+            Console.WriteLine($"O Total de atores na categoria {categoria} é de {paramTotal.Value}");
         }
     }
 }
