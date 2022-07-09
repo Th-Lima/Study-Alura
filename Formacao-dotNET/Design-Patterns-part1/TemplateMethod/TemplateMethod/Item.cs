@@ -1,4 +1,4 @@
-﻿namespace ChainOfResponsibility
+﻿namespace TemplateMethod
 {
     public class Item
     {
