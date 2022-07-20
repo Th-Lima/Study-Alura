@@ -1,8 +1,8 @@
 ﻿namespace Observer
 {
-    public class EnviadorDeSms
+    public class EnviadorDeSms : IAcaoAposGerarUmaNota
     {
-        public void EnviaPorSms(NotaFiscal nf)
+        public void Executa(NotaFiscal nf)
         {
             Console.WriteLine("Simula envio por sms");
         }

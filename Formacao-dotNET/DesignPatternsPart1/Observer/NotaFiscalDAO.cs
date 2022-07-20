@@ -1,14 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Observer
+﻿namespace Observer
 {
-    public class NotaFiscalDAO
+    public class NotaFiscalDAO : IAcaoAposGerarUmaNota
     {
-        public void SalvaNoBanco(NotaFiscal nf)
+        public void Executa(NotaFiscal nf)
         {
             Console.WriteLine("Simula salvamento no banco");
         }

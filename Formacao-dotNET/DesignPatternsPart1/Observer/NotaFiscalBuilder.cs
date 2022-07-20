@@ -10,16 +10,24 @@
         public double ValorTotal;
         public double Impostos;
         public List<ItemDaNota> TodosItens = new List<ItemDaNota>();
+
+        private IList<IAcaoAposGerarUmaNota> _todasAcoesAposSeremExecutadas = new List<IAcaoAposGerarUmaNota>();
         
         public NotaFiscal Constroi()
         {
             NotaFiscal nf =  new NotaFiscal(RazaoSocial, Cnpj, Data, ValorTotal, Impostos, TodosItens, Observacoes);
 
-            new EnviadorDeEmail().EnviaPorEmail(nf);
-            new NotaFiscalDAO().SalvaNoBanco(nf);
-            new EnviadorDeSms().EnviaPorSms(nf);
+            foreach (var acao in _todasAcoesAposSeremExecutadas)
+            {
+                acao.Executa(nf);
+            }
 
             return nf;
+        }
+
+        public void AdicionaAcao(IAcaoAposGerarUmaNota novaAcao)
+        {
+            this._todasAcoesAposSeremExecutadas.Add(novaAcao);
         }
 
         public NotaFiscalBuilder ParaEmpresa(string razaoSocial)

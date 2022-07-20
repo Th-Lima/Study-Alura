@@ -1,8 +1,8 @@
 ﻿namespace Observer
 {
-    public class EnviadorDeEmail
+    public class EnviadorDeEmail : IAcaoAposGerarUmaNota
     {
-        public void EnviaPorEmail(NotaFiscal nf)
+        public void Executa(NotaFiscal nf)
         {
             Console.WriteLine("Simula envio por email");
         }
