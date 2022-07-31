@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flyweight", "Flyweight\Flyw
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Memento", "Memento\Memento.csproj", "{AD2B8C8B-147E-4997-A761-DB21A145C6B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpreter", "Interpreter\Interpreter.csproj", "{54078C33-540B-42A6-A147-79AC027E0D4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interpreter", "Interpreter\Interpreter.csproj", "{54078C33-540B-42A6-A147-79AC027E0D4C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor", "Visitor\Visitor.csproj", "{81FF84FF-89A9-423C-8B82-DC4469AA031B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Visitor", "Visitor\Visitor.csproj", "{81FF84FF-89A9-423C-8B82-DC4469AA031B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridges", "Bridges\Bridges.csproj", "{C5760ECC-539D-41F1-A3A7-3195C4E4C2E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{81FF84FF-89A9-423C-8B82-DC4469AA031B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81FF84FF-89A9-423C-8B82-DC4469AA031B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81FF84FF-89A9-423C-8B82-DC4469AA031B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5760ECC-539D-41F1-A3A7-3195C4E4C2E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5760ECC-539D-41F1-A3A7-3195C4E4C2E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5760ECC-539D-41F1-A3A7-3195C4E4C2E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5760ECC-539D-41F1-A3A7-3195C4E4C2E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
