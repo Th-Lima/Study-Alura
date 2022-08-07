@@ -33,9 +33,9 @@ namespace Alura.Estacionamento.Tests
         [InlineData("André Silva", "ASD-9999", "preto", "Gol", TipoVeiculo.Automovel)]
         [InlineData("Thales Lima", "CVG-9851", "prata", "Civic", TipoVeiculo.Automovel)]
         [InlineData("João dos Santos", "LOJ-4201", "preto", "Faze", TipoVeiculo.Motocicleta)]
-        public void ValidaFaturamentoComVariosVeiculos(string proprietario, 
-                                                            string placa, 
-                                                            string cor, 
+        public void ValidaFaturamentoComVariosVeiculos(string proprietario,
+                                                            string placa,
+                                                            string cor,
                                                             string modelo,
                                                             TipoVeiculo tipo)
         {
@@ -56,10 +56,67 @@ namespace Alura.Estacionamento.Tests
             double faturamento = estacionamento.TotalFaturado();
 
             //Assert
-            if(tipo == TipoVeiculo.Automovel)
+            if (tipo == TipoVeiculo.Automovel)
                 Assert.Equal(2, faturamento);
             else
                 Assert.Equal(1, faturamento);
+        }
+
+        [Theory]
+        [InlineData("André Silva", "ASD-9999", "preto", "Gol")]
+        public void LocalizaVeiculoNoPatio(string proprietario,
+                                                string placa,
+                                                string cor,
+                                                string modelo)
+        {
+            //Arrange
+            var estacionamento = new Patio();
+            var veiculo = new Veiculo
+            {
+                Proprietario = proprietario,
+                Cor = cor,
+                Modelo = modelo,
+                Placa = placa
+            };
+            estacionamento.RegistrarEntradaVeiculo(veiculo);
+
+            //Act
+            var consultado = estacionamento.PesquisaVeiculo(placa);
+
+            //Assert
+            Assert.Equal(placa, consultado.Placa);
+        }
+
+        [Fact]
+        public void AlterarDadosVeiculo()
+        {
+            //Arrange
+            var estacionamento = new Patio();
+            var veiculo = new Veiculo
+            {
+                Proprietario = "Thales",
+                Tipo = TipoVeiculo.Automovel,
+                Cor = "Preto",
+                Modelo = "Civic",
+                Placa = "AWD-5236"
+            };
+            
+            estacionamento.RegistrarEntradaVeiculo(veiculo);
+
+            var veiculoAlterado = new Veiculo
+            {
+                Proprietario = "Thales",
+                Tipo = TipoVeiculo.Automovel,
+                Cor = "Prata", //Alterado
+                Modelo = "Civic",
+                Placa = "AWD-5236"
+            };
+
+            //Act
+            Veiculo alterado = estacionamento.AlteraDadosVeiculo(veiculoAlterado);
+
+            //Assert
+            Assert.Equal(alterado.Cor, veiculoAlterado.Cor);
         }
     }
 }
