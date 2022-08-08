@@ -8,6 +8,8 @@ namespace Alura.Estacionamento.Tests
     {
         private Veiculo _veiculo;
         private Patio _patio;
+        private Operador _operador;
+
         public ITestOutputHelper ConsoleTest;
 
         public PatioTests(ITestOutputHelper consoleTest)
@@ -17,6 +19,8 @@ namespace Alura.Estacionamento.Tests
 
             _veiculo = new Veiculo();
             _patio = new Patio();
+            _operador = new Operador();
+            _operador.Nome = "Luis Silva";
         }
 
         [Fact]
@@ -29,6 +33,7 @@ namespace Alura.Estacionamento.Tests
             _veiculo.Modelo = "Civic";
             _veiculo.Placa = "AWD-5236";
 
+            _patio.OperadorPatio = _operador;
             _patio.RegistrarEntradaVeiculo(_veiculo);
             _patio.RegistrarSaidaVeiculo(_veiculo.Placa);
 
@@ -56,6 +61,7 @@ namespace Alura.Estacionamento.Tests
             _veiculo.Modelo = modelo;
             _veiculo.Placa = placa;
 
+            _patio.OperadorPatio = _operador;
             _patio.RegistrarEntradaVeiculo(_veiculo);
             _patio.RegistrarSaidaVeiculo(_veiculo.Placa);
 
@@ -82,6 +88,7 @@ namespace Alura.Estacionamento.Tests
             _veiculo.Modelo = modelo;
             _veiculo.Placa = placa;
 
+            _patio.OperadorPatio = _operador;
             _patio.RegistrarEntradaVeiculo(_veiculo);
 
             //Act
@@ -101,6 +108,7 @@ namespace Alura.Estacionamento.Tests
             _veiculo.Modelo = "Civic";
             _veiculo.Placa = "AWD-5236";
 
+            _patio.OperadorPatio = _operador;
             _patio.RegistrarEntradaVeiculo(_veiculo);
 
             var veiculoAlterado = new Veiculo
