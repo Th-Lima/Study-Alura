@@ -1,29 +1,39 @@
 ﻿using Alura.Estacionamento.Alura.Estacionamento.Modelos;
 using Alura.Estacionamento.Modelos;
+using Xunit.Abstractions;
 
 namespace Alura.Estacionamento.Tests
 {
-    public class PatioTests
+    public class PatioTests : IDisposable
     {
+        private Veiculo _veiculo;
+        private Patio _patio;
+        public ITestOutputHelper ConsoleTest;
+
+        public PatioTests(ITestOutputHelper consoleTest)
+        {
+            ConsoleTest = consoleTest;
+            ConsoleTest.WriteLine("Construtor Invocado");
+
+            _veiculo = new Veiculo();
+            _patio = new Patio();
+        }
+
         [Fact]
-        public void ValidaFaturamento()
+        public void ValidaFaturamentoDoEstacionamentoComUmVeiculo()
         {
             //Arrange
-            var estacionamento = new Patio();
-            var veiculo = new Veiculo
-            {
-                Proprietario = "Thales",
-                Tipo = TipoVeiculo.Automovel,
-                Cor = "Preto",
-                Modelo = "Civic",
-                Placa = "AWD-5236"
-            };
+            _veiculo.Proprietario = "Thales";
+            _veiculo.Tipo = TipoVeiculo.Automovel;
+            _veiculo.Cor = "Preto";
+            _veiculo.Modelo = "Civic";
+            _veiculo.Placa = "AWD-5236";
 
-            estacionamento.RegistrarEntradaVeiculo(veiculo);
-            estacionamento.RegistrarSaidaVeiculo(veiculo.Placa);
+            _patio.RegistrarEntradaVeiculo(_veiculo);
+            _patio.RegistrarSaidaVeiculo(_veiculo.Placa);
 
             //Act
-            double faturamento = estacionamento.TotalFaturado();
+            double faturamento = _patio.TotalFaturado();
 
             //Assert
             Assert.Equal(2, faturamento);
@@ -33,27 +43,24 @@ namespace Alura.Estacionamento.Tests
         [InlineData("André Silva", "ASD-9999", "preto", "Gol", TipoVeiculo.Automovel)]
         [InlineData("Thales Lima", "CVG-9851", "prata", "Civic", TipoVeiculo.Automovel)]
         [InlineData("João dos Santos", "LOJ-4201", "preto", "Faze", TipoVeiculo.Motocicleta)]
-        public void ValidaFaturamentoComVariosVeiculos(string proprietario,
+        public void ValidaFaturamentoDoEstacionamentoComVariosVeiculos(string proprietario,
                                                             string placa,
                                                             string cor,
                                                             string modelo,
                                                             TipoVeiculo tipo)
         {
             //Arrange
-            var estacionamento = new Patio();
-            var veiculo = new Veiculo
-            {
-                Proprietario = proprietario,
-                Tipo = tipo,
-                Cor = cor,
-                Modelo = modelo,
-                Placa = placa
-            };
-            estacionamento.RegistrarEntradaVeiculo(veiculo);
-            estacionamento.RegistrarSaidaVeiculo(veiculo.Placa);
+            _veiculo.Proprietario = proprietario;
+            _veiculo.Tipo = tipo;
+            _veiculo.Cor = cor;
+            _veiculo.Modelo = modelo;
+            _veiculo.Placa = placa;
+
+            _patio.RegistrarEntradaVeiculo(_veiculo);
+            _patio.RegistrarSaidaVeiculo(_veiculo.Placa);
 
             //Act
-            double faturamento = estacionamento.TotalFaturado();
+            double faturamento = _patio.TotalFaturado();
 
             //Assert
             if (tipo == TipoVeiculo.Automovel)
@@ -64,44 +71,37 @@ namespace Alura.Estacionamento.Tests
 
         [Theory]
         [InlineData("André Silva", "ASD-9999", "preto", "Gol")]
-        public void LocalizaVeiculoNoPatio(string proprietario,
+        public void LocalizaVeiculoNoPatioComBaseNaPlaca(string proprietario,
                                                 string placa,
                                                 string cor,
                                                 string modelo)
         {
             //Arrange
-            var estacionamento = new Patio();
-            var veiculo = new Veiculo
-            {
-                Proprietario = proprietario,
-                Cor = cor,
-                Modelo = modelo,
-                Placa = placa
-            };
-            estacionamento.RegistrarEntradaVeiculo(veiculo);
+            _veiculo.Proprietario = proprietario;
+            _veiculo.Cor = cor;
+            _veiculo.Modelo = modelo;
+            _veiculo.Placa = placa;
+
+            _patio.RegistrarEntradaVeiculo(_veiculo);
 
             //Act
-            var consultado = estacionamento.PesquisaVeiculo(placa);
+            var consultado = _patio.PesquisaVeiculo(placa);
 
             //Assert
             Assert.Equal(placa, consultado.Placa);
         }
 
         [Fact]
-        public void AlterarDadosVeiculo()
+        public void AlterarDadosDoProprioVeiculo()
         {
             //Arrange
-            var estacionamento = new Patio();
-            var veiculo = new Veiculo
-            {
-                Proprietario = "Thales",
-                Tipo = TipoVeiculo.Automovel,
-                Cor = "Preto",
-                Modelo = "Civic",
-                Placa = "AWD-5236"
-            };
-            
-            estacionamento.RegistrarEntradaVeiculo(veiculo);
+            _veiculo.Proprietario = "Thales";
+            _veiculo.Tipo = TipoVeiculo.Automovel;
+            _veiculo.Cor = "Preto";
+            _veiculo.Modelo = "Civic";
+            _veiculo.Placa = "AWD-5236";
+
+            _patio.RegistrarEntradaVeiculo(_veiculo);
 
             var veiculoAlterado = new Veiculo
             {
@@ -113,10 +113,15 @@ namespace Alura.Estacionamento.Tests
             };
 
             //Act
-            Veiculo alterado = estacionamento.AlteraDadosVeiculo(veiculoAlterado);
+            Veiculo alterado = _patio.AlteraDadosVeiculo(veiculoAlterado);
 
             //Assert
             Assert.Equal(alterado.Cor, veiculoAlterado.Cor);
+        }
+
+        public void Dispose()
+        {
+            ConsoleTest.WriteLine("Dispose Invocado");
         }
     }
 }
