@@ -9,6 +9,7 @@ namespace Alura.Estacionamento.Modelos
         private string _placa;
         private string _proprietario;
         private TipoVeiculo _tipo;
+        private string _ticket;
 
         //Construtor
         public Veiculo()
@@ -91,6 +92,8 @@ namespace Alura.Estacionamento.Modelos
         public DateTime HoraEntrada { get; set; }
         public DateTime HoraSaida { get; set; }   
         public TipoVeiculo Tipo { get => _tipo; set => _tipo = value; }
+        public string IdTicket { get; set; }
+        public string Ticket { get => _ticket; set => _ticket = value; }
 
         //Métodos
         public void Acelerar(int tempoSeg)
