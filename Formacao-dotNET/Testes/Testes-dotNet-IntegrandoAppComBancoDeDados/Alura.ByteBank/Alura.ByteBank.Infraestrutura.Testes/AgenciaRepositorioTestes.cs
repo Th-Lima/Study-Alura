@@ -4,15 +4,20 @@ using Alura.ByteBank.Dominio.Interfaces.Repositorios;
 using Alura.ByteBank.Infraestrutura.Testes.Servicos;
 using Microsoft.Extensions.DependencyInjection;
 using Moq;
+using Xunit.Abstractions;
 
 namespace Alura.ByteBank.Infraestrutura.Testes
 {
     public class AgenciaRepositorioTestes
     {
         private readonly IAgenciaRepositorio _agenciaRepositorio;
+        public ITestOutputHelper SaidaConsoleTest { get; set; }
 
-        public AgenciaRepositorioTestes()
+        public AgenciaRepositorioTestes(ITestOutputHelper saidaConsoleTeste)
         {
+            SaidaConsoleTest = saidaConsoleTeste;
+            SaidaConsoleTest.WriteLine("Contrutor executado com sucesso");
+
             var servico = new ServiceCollection();
             servico.AddTransient<IAgenciaRepositorio, AgenciaRepositorio>();
             var provedor = servico.BuildServiceProvider();
