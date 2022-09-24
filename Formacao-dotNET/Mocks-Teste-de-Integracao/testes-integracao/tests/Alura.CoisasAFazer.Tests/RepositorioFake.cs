@@ -1,12 +1,9 @@
 ﻿using Alura.CoisasAFazer.Core.Models;
 using Alura.CoisasAFazer.Infrastructure;
-using System;
-using System.Collections.Generic;
-using System.Linq;
 
-namespace Alura.CoisasAFazer.Testes.TestDubles
+namespace Alura.CoisasAFazer.Tests
 {
-    public class RepoFakeTarefas : IRepositorioTarefas
+    public class RepositorioFake : IRepositorioTarefas
     {
         List<Tarefa> lista = new List<Tarefa>();
 
@@ -22,17 +19,27 @@ namespace Alura.CoisasAFazer.Testes.TestDubles
 
         public void IncluirTarefas(params Tarefa[] tarefas)
         {
-            tarefas.ToList().ForEach(t => lista.Add(t));
+            foreach (var item in tarefas)
+            {
+                lista.Add(item);
+            }
+
+            //tarefas.ToList().ForEach(x => lista.Add(x));
         }
 
         public Categoria ObtemCategoriaPorId(int id)
         {
-            return new Categoria(id, string.Empty);
+            throw new NotImplementedException();
         }
 
         public IEnumerable<Tarefa> ObtemTarefas(Func<Tarefa, bool> filtro)
         {
-            return lista;
+            var result = lista.Where(filtro);
+
+            if (!result.Any())
+                throw new NullReferenceException("Tarefa não encontrada");
+
+            return result;
         }
     }
 }
