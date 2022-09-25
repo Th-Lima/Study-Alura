@@ -19,12 +19,13 @@ namespace Alura.CoisasAFazer.Tests
 
         public void IncluirTarefas(params Tarefa[] tarefas)
         {
-            foreach (var item in tarefas)
-            {
-                lista.Add(item);
-            }
+            throw new Exception("Houve um erro ao incluir as tarefas");
+            //foreach (var item in tarefas)
+            //{
+            //    lista.Add(item);
+            //}
 
-            //tarefas.ToList().ForEach(x => lista.Add(x));
+            tarefas.ToList().ForEach(x => lista.Add(x));
         }
 
         public Categoria ObtemCategoriaPorId(int id)
