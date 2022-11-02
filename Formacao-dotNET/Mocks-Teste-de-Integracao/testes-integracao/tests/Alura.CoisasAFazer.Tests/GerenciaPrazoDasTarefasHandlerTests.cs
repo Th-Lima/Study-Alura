@@ -4,6 +4,7 @@ using Alura.CoisasAFazer.Infrastructure;
 using Alura.CoisasAFazer.Services.Handlers;
 using FluentAssertions;
 using Microsoft.EntityFrameworkCore;
+using Moq;
 
 namespace Alura.CoisasAFazer.Tests
 {
@@ -53,6 +54,34 @@ namespace Alura.CoisasAFazer.Tests
             var tarefasEmAtraso = repo.ObtemTarefas(x => x.Status == StatusTarefa.EmAtraso).Count();
 
             tarefasEmAtraso.Should().Be(5);
+        }
+
+        [Fact]
+        public void QuandoInvocadoDeveChamarAtualizarTarefasNaQtdeDeVezesDoTotalDeTarefasAtrasadas()
+        {
+            //Arrange
+            var tarefas = new List<Tarefa>()
+            {
+                new Tarefa(1, "Tirar lixo", new Categoria("Teste01"), new DateTime(2018,12,31), null, StatusTarefa.Criada),
+                new Tarefa(4, "Fazer o almoço", new Categoria("Teste02"), new DateTime(2017,12,1), null, StatusTarefa.Criada),
+                new Tarefa(9, "Ir à academia", new Categoria("Teste03"), new DateTime(2018,12,31), null, StatusTarefa.Criada),
+            };
+
+            var mock = new Mock<IRepositorioTarefas>();
+
+            mock.Setup(r => r.ObtemTarefas(It.IsAny<Func<Tarefa, bool>>()))
+                .Returns(tarefas);
+
+            var repo = mock.Object;
+
+            var comando = new GerenciaPrazoDasTarefas(new DateTime(2019, 1, 1));
+            var handler = new GerenciaPrazoDasTarefasHandler(repo);
+
+            //Act
+            handler.Execute(comando);
+
+            //Assert
+            mock.Verify(x => x.AtualizarTarefas(It.IsAny<Tarefa[]>()), Times.Once());
         }
     }
 }
