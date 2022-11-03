@@ -15,7 +15,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{99F2C0DF
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alura.CoisasAFazer.WebApp", "src\Alura.CoisasAFazer.WebApp\Alura.CoisasAFazer.WebApp.csproj", "{33A3FD7A-FED3-4E79-953C-BE31EC561F7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alura.CoisasAFazer.Tests", "tests\Alura.CoisasAFazer.Tests\Alura.CoisasAFazer.Tests.csproj", "{85A1070B-C3BC-4915-90F6-240A05AB3049}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alura.CoisasAFazer.Tests", "tests\Alura.CoisasAFazer.Tests\Alura.CoisasAFazer.Tests.csproj", "{85A1070B-C3BC-4915-90F6-240A05AB3049}"
+	ProjectSection(ProjectDependencies) = postProject
+		{33A3FD7A-FED3-4E79-953C-BE31EC561F7A} = {33A3FD7A-FED3-4E79-953C-BE31EC561F7A}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
