@@ -45,5 +45,39 @@ namespace Alura.CoisasAFazer.Tests
             //Assert
             Assert.IsType<OkResult>(result);
         }
+
+        [Fact]
+        public void QuandoExcecaoForLancadaDeveRetornarBadRequest()
+        {
+            //Arrange
+            var mockLogger = new Mock<ILogger<CadastraTarefaHandler>>();
+
+            var mock = new Mock<IRepositorioTarefas>();
+            
+            mock.Setup(r => r.ObtemCategoriaPorId(20)).Returns(new Categoria(20, "Estudo"));
+            
+            mock.Setup(r => r.IncluirTarefas(It.IsAny<Tarefa[]>()))
+                .Throws(new Exception("Houve um erro"));
+
+            var repo = mock.Object;
+
+            var controller = new TarefasController(repo, mockLogger.Object);
+            var model = new CadastraTarefaVM()
+            {
+                IdCategoria = 20,
+                Titulo = "Estudar xUnit",
+                Prazo = new DateTime(2022, 12, 31)
+            };
+
+            //Act
+            var result = controller.EndpointCadastraTarefa(model);
+
+            //Assert
+            Assert.IsType<BadRequestObjectResult>(result);
+
+            var statusCode = (result as BadRequestObjectResult)?.StatusCode;
+
+            Assert.Equal(400, statusCode);
+        }
     }
 }

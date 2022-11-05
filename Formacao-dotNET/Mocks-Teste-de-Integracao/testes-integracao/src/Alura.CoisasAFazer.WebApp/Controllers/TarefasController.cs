@@ -32,8 +32,12 @@ namespace Alura.CoisasAFazer.WebApp.Controllers
 
             var comando = new CadastraTarefa(model.Titulo, categoria, model.Prazo);
             var handler = new CadastraTarefaHandler(_tarefasRepository, _logger);
-            handler.Execute(comando);
-            return Ok();
+            var result = handler.Execute(comando);
+
+            if(result.IsSuccess)
+                return Ok();
+
+            return BadRequest(result);
         }
     }
 }
